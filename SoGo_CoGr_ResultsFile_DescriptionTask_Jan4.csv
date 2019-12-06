@@ -1,0 +1,1027 @@
+SubjID,ListNumb,ConditionID,TargID,Transcriber Initials,Transcription,TranscriptionNotes,NamingError,SceneSetting,SourceMention,SourceMenFrame,GoalMention,GoalMenFrame,MentionOrder,MannerofMotion,CodingNotes,CoderInitials
+S1,L1,NCG_A,Targ1,CAP,"alright okay...so this looks like it's in a little pond um...in the bottom...there's...um...I think it's like the lotus flower or lilly flower that has little...uh...ittle frog pads on it,...he green little frog pads that they can just kinda like take a nap on...uhm and then on the other side...you can see like the edge of the water...and there's just kinda like grass with a tree stump on it and the frog just...there's oh...there's a frog  uhm that starts on the lilly pad and he makes like this big ole jump and lands on the tree stump like 500 feet away it seems like.",,n,y,y,on-pp,y,on-pp,source-goal,conjoined,starts on + lands on,MLD
+S1,L1,NCG_A,Targ2,CAP,okay alright...so this is uh like a farmhouse kinda scene...uhm...there's like...the grass...and then...you have the sky there's a little fence at the bottom left...and there's a horse that starts out there...and he uhm kinda like trots all the way up...and there's a  little farmhouse right there...and he goes right next to it ,,n,y,y,other,y,other,source-goal,trots,,MLD
+S1,L1,NCG_A,Targ3,CAP,okay uhm...so this one's just like the grass and the sky again and there's a little dog house...like a little red dog house...uhm...and it has a little waterbowl outside...uhm it's kinda like...it looks to be resting like on  like a bunch of like fluffy grass and then on the other side...there's this...there's a tree...but it looks like a really small tree like a really like minuture tree...and there's a cute little puppy that goes from the dog house all the way next to the tree...and I'm assuming he's gunna pee on it but he just kind of like sits there.,,n,y,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S1,L1,NCG_A,Targ4,CAP,alright okay...uh this one looks like it's some kind of like little forest...there's just the grass...the sky...there's uhm like a purple little flower on one side and then on the other side there's this big tree all you can see is one little branch off of it...and...from that branch there's a little uhm like the...the bees nest that's hanging down from it...but it doesn't really look scary or anthing there's just a bunch of like little bees flying around...and then there's this one like gigantic bee that starts at the...at the flower and then he flies all the way up to his little friend.,,n,y,y,at-pp,y,to-part,source-goal,flies,,MLD
+S1,L1,NCG_A,Targ5,CAP,alright so this one's outside...it looks like it could be somewhere in the south...uhm...there's a little lantern...like all the way up it looks kinda fancy...and then on the other side there's kind of like a deck with a chair in it nobody is sitting in the chair...but the chair's just kinda there...and there's a butterfly that goes from the lantern and then just sets on the chair,,n,y,y,from-pp,y,on-pp,source-goal,goes,,MLD
+S1,L1,NCG_A,Targ6,CAP,Okay alright so this one is like uh like a fairytal kinda thing...uhm it's just grass and then you have the sky....and...at the bottom there's like this castle like this big ole castle...uum it doesn't seem to have like a little water around it or anything...so it's just this castle...you can't really see a door you can only see a couple of windows uhm it looks pretty far...and at the top there's like a...there's like a rainbow with little clouds in it...and there's a fairy...uhm it looks like a little fairy godmother like she has the wings...she's blonde...and she's holding the little star...oh the little wand...and she just flies I guess from the castle to the rainbow.,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S1,L1,NCG_A,Targ7,CAP,alright so this goes between two rooms...in one room there's...uh kinda like a bookcase...in the other room there's a stove...and there's a kid...uhm I'd say a teenager like he walks from the room with the stove into the room with the books and just [kinda stands there],,n,y,y,from-pp,y,into-pp,source-goal,walks,doesn't use bookshelf/stove as landmarks - room with XXX room with YYY,MLD
+S1,L1,NCG_A,Targ8,CAP,okay so this one is kinda like set at night...uhm you can mostly see like the like the dark sky...and there's a moon like a big ole moon on one corner...and in the other opposite corner there's...a...like a house...uhm... I can't really tell what kinda house it is because it looks...weir...like...it looks like a weird architecture to be...apartment? It just looks like something you would see in like the cartoons...like um there's a witch and like she's on the broom...but it's like an ugly witch it's not like one of the pretty witches and she just like flies like from the from the moon all the way down to the...to the house and just like stops there.,,n,y,y,from-pp,y,to-part,source-goal,flies,,MLD
+S1,L1,NCG_A,Targ9,CAP,okay uuuum...this one...looks...I can't really tell where it is because it kinda looks like a desert but it also kinda looks like uuuh somehwere in like Australia or something...uhm...so it has like the sky and then there's I think I think they're mountains and I think it's just like the angle of the sun that like they look kinda like darker colored...uhm so there's like the mountains and then at the bottom left uhm there's this kinda like little tree but it's weird because it has purple on it er not a tree but like a little bush...uhm...but like it also has like some purple dots on it...and there's a snake that starts out at that little bush and then goes all the way to the other side of the screen where there's a rock...and he just kinda chills like right next to the rock.,,n,y,y,other-part,y,other,source-goal,goes,desribes motion as 2 utterances 'starts out at....' and then describes endpoint with 'where' rc,MLD
+S1,L1,NCG_A,Targ10,CAP,okay uuhm...so...again it's like the grass and the sky and this time there's a tent...that's like it's already pitched and like it's on the on the floor...nobody's really in it...uhm...and then on the other side it looks it looks like a powerline but you dont see any of the actual electricity lines it's just like the like the uhm brown thingy uhm and the it has like the the little yellow like triangle on it that can make you tell that it's a powerline...and there's a pi...I think it's a pigeon...uhm and it goes from like the tent like it was at the top of the tent...and then it flies all the way to the top of the poweline.,,y,y,y,of-pp,y,of-pp,source-goal,flies,,MLD
+S1,L1,NCG_A,Targ11,RNR,okay so this is in space um... there's only one planet on it I'm pretty sure it's Jupiter um there's no little stars or anything it's just black um... but then on the other side there's-- I think it's like a space base or something like where the rocketships like take off from... um and it's like-- like one of those 'Y' thingies like in-- like in Gravity or something um... and there's no people you can't really tell but there's a little spaceship like a-- like a random yellow spaceship that kind of um like lifts off from the space base and goes to Jupiter and it just kind of stays there like it landed on the surface of Jupiter,,n,y,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S1,L1,NCG_A,Targ12,RNR,sooo... in this one um it's underwater you can see like a little bit of sand and you can see the the water ... um it looks like there was some kind of shipwreck like the ship is just kind of like in pieces um...... you can't really see any people you can just see a bunch of like weird objects that I can't really tell what they are but um some kind of little shipwreck like on that side and i guess a submarine comes from there and then it uh... it swims all the way to the other side where there's a little cave there's like this little like rock cave and um you can't see what's inside it but can you-- like the submarine like swims right next to it,,n,y,y,other,y,other,source-goal,swims,desribes motion as 2 utterances 'starts out at....' and then describes endpoint with 'where' rc,MLD
+S1,L1,NCG_A,Targ13,RNR,okay so in this scene it looks like a room in a house um the walls are pink floor is pink um different shades though and there's a crib for a little baby and on the opposite side of the room there's a couch um with some pillows on it and the crib um it looks like the baby likes little starships and um fantasy stuff but she got outside the crib-- or she was already outside the crib and then she went like extremely fast to the sofa,,n,y,y,other-part,y,to-pp,source-goal,goes,,MLD
+S1,L1,NCG_A,Targ14,RNR,okay um...... so this one uh there's like there's roads-- like there's grey road and then there's the sky um...... the sky just has like some clouds in it and there's two little houses... um it looks like really like not to scale but there's this car um it's a red car it looks kind of like the like the old time cars um it has the hood up and it goes from one side of the screen where there's like this orange little house-- it's just looks like a house that someone lives in and it goes all the way to the other side of the screen where there's like a store and you can see little fruits and vegetables in the front of the store so i'm assunming it's a grocery store and the car just parks there but nobody gets out,,n,y,y,from-pp,y,to-pp,source-goal,goes,"uses the screen as landmarks, but describes objects in 'where' rc",MLD
+S1,L1,NCG_A,Targ15,RNR,alright so this one um looks like it's out of like like snow white or something there's a little basket with like all these red apples on the bottom and it's like a scene that has the grass and the sky and... all the way on the other side there's kind of like a like a water well like the ones you have to like dip your bucket in and nobody's in it just a little bunny that like hops from the-- from the apples  all the way to the water well,,n,y,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S1,L1,NCG_A,Targ16,RNR,okay... so this one is just kind of set on the roof of a house um you can see the little sky behind it but... um like on the roof of the house you can tell that there's a little ladder that's like pushed up against it um... it's just like a regular ladder you can see a couple of windows and there's a robber that he started out at the top of the ladder and then he kind of like does a little tiptoe thing all the way to the-- to the chimney and he has like the little mask on he has a tat-- like a skull tattoo and his like-- his shirt you can see like his fat little stomach and he just tiptoes all the way to the chimney but he doesn't actually go in it,,n,y,y,at-pp,y,to-pp,source-goal,tip-toes,,MLD
+S1,L1,NCG_A,Targ17,RNR,okay um there's like a room i guess it's kind of a kitchen the only thing there is a fridge anddd... a trash can but the trash can is like disgusting like there's stuff like *laugh* it's just like overflowing with garbage and it looks like old food and there's this lady and *laugh* oh i think it actually might be a restaurant because she's wearing a little-- little restaurant outfit um she's throwing away some trash,,n,y,n,,n,,none,throws,does not describe as a change of location event; throwing away trash,MLD
+S1,L1,NCG_A,Targ18,RNR,okay um this is like a little park but the only thing there is there's a bench on what looks to be the middle of the sidewalk and then there's um... a slide all the way up in the other corner and it's just that um... but there's a rat that kind of goes from like under the slide all the way to under the-- the bench,,n,y,y,from-part,y,from-part,source-goal,goes,,MLD
+S2,L2,NCG_A,Targ1,RNR,um there's a tree trunk on the right hand side of the screen and a frog jumps from that tree trunk to a lily pad in the pond,,n,y,y,from-pp,y,to-pp,source-goal,jumps,,NER
+S2,L2,NCG_A,Targ2,RNR,um so there's a brown horse at... a red barn and he runs towards the fence... which is brownish colored... and the grass is green,,n,y,y,other,y,towards-pp,source-goal,runs,,NER
+S2,L2,NCG_A,Targ3,RNR,uh y- okay so the background is just some grass and a blue sky and then there's a tree on the right side of the screen just like a regular looking tree and a dog runs from that tree to um a red barn or like a red dog house i think it's-- it's his dog house and there's um... also like a bowl of food in front of that dog house... and the dog house is red and th- the the dog is brown,,n,y,y,from-pp,y,to-pp,source-goal,runs,,NER
+S2,L2,NCG_A,Targ4,RNR,okay so this is a picture of just like... a normal like blue sky and then green grass and then there's like a beehive on the... on the right hanging from a tree branch and the bee flies from the beehive to the flower on the-- to the purple looking-- lavender looking flower on the left side of the screen...... um,,n,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S2,L2,NCG_A,Targ5,CAP,            ,,n,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S2,L2,NCG_A,Targ6,CAP,uhm so there's a lake...there's a crocodile on the left side of the lake...and a...rhino-asourous...uhm it's some type of rhinoserous looking creature on the...right side of the screen...and there's a flamingo in front of the crocodile...and the flamingo is like jumping up and down...and the crocodile is like greenish blue-ish...the flamingo's pink...yea,,n,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S2,L2,NCG_A,Targ7,CAP,so there's a bookshelf on the..left hand side of the screen and an oven...or a stove on the right hand side of the screen...andu hm this young boy is walking....from the bookshelf to the stove...uhm...and they're like in different rooms too...like the bookcase and the stove.,over/stove,n,y,y,from-pp,y,to-pp,source-goal,walks,,NER
+S2,L2,NCG_A,Targ8,CAP,uhm...so this looks like it's at night...uhm so there's like a darkish blueish sky and then like a maroon colored floor...uhm...there's a moon on the right hand side of the screen and the witch flies...a witch on a broom stick flies from the moon to a...haun...like a haunted looking house...uh it's like a grey house with green shelves...with green roofs...[?]...and there's tan windows...yea,,n,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S2,L2,NCG_A,Targ9,CAP,uhm I'm not...mmm the background uhm...so the the background I think is a swamp...there's like some...some muddy looking swamp thing...and then there's like some big rocks in the background... and then there's like a...a smaller grey rock on the right-hand side of the screen and a snake moves from that gray rock to...uhm...a plant looking thing on the left-hand side of screen...and it's like bushy...it has like pink uhm specks on on...yea it's like bushy so it's green but then it has like pink specs...scattered around the bush or scattered around the leaf area,,n,y,y,from-pp,y,to-pp,source-goal,moves,uses demonstrative pronoun after scene setting to talk about source,NER
+S2,L2,NCG_A,Targ10,RNR,okay so the background is just like blue sky green grass and then i don't-- i don't really know what they're called but like when you're like driving on the highway and you see like all those like electricityyy things like... like there's like it like looks like that and there's like lines in between each pole...... not the wires but like the-- the stands themselves that connect the wires...... yeah so... it's like that thing on the right side of the screen... um and then a green tent on the left side and the bird flies from... that electric stand looking thing to the green tent yeah,"can't remember ""telephone pole"" ",y,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S2,L2,NCG_A,Targ11,CAP,so the background of this picture is space and uhm...but a rocket ship comes from...i think it might be like  a space station yea...a space station...on the top...and the rocket comes from that to a planet on the more left screen...and the rocket is like...yellow red and orange...and the planet is like...pinkish,unsure of word satellite/ space station,y,y,y,from-pp,y,to-pp,source-goal,comes,,NER
+S2,L2,NCG_A,Targ12,,,,n,y,y,from-pp,y,over-pp,source-goal,flies,,NER
+S2,L2,NCG_A,Targ13,,,,n,n,y,from-pp,y,towards-pp,goal-source,crawls,,NER
+S2,L2,NCG_A,Targ14,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,NER
+S2,L2,NCG_A,Targ15,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,NER
+S2,L2,NCG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,goes,,NER
+S2,L2,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,NER
+S2,L2,NCG_A,Targ18,,,not sure what the background is,y,y,y,from-pp,y,to-pp,source-goal,moves,,NER
+S3,L3,NCG_A,Targ1,,,,n,n,y,from-part,y,onto-pp,source-goal,conjoined,conjoined; jumps up from....and onto,MLD
+S3,L3,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S3,L3,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,conjoined; runs from...and to ,MLD
+S3,L3,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,travels,back-to' return event,MLD
+S3,L3,NCG_A,Targ5,,,,n,n,y,at-pp,y,to-pp,source-goal,flies,,MLD
+S3,L3,NCG_A,Targ6,,,,n,n,y,from-part,y,to-part,source-goal,flies,,MLD
+S3,L3,NCG_A,Targ7,,,,n,n,y,from-pp,y,into-pp,source-goal,walks,"doesn't usestove as landmarks - into a kitchen, where there is...",MLD
+S3,L3,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S3,L3,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S3,L3,NCG_A,Targ10,,,,n,n,y,from-pp,y,onto-pp,source-goal,flies,,MLD
+S3,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,onto-pp,source-goal,flies,,MLD
+S3,L3,NCG_A,Targ12,,,,n,n,y,from-part,y,v-np,source-goal,approaches,,MLD
+S3,L3,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S3,L3,NCG_A,Targ14,,,,n,n,y,from-part,y,to-pp,source-goal,drives,,MLD
+S3,L3,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S3,L3,NCG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S3,L3,NCG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,brings,"doesn't totally use fridge as landmark, just says close to refridgerator",MLD
+S3,L3,NCG_A,Targ18,,,forgot word for 'bench',y,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S4,L1,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,hops,,MLD
+S4,L1,CG_A,Targ2,,,,n,n,n,,y,towards-pp,goal only,gallops,,MLD
+S4,L1,CG_A,Targ3,,,,n,n,n,,y,towards-pp,goal only,jumps,,MLD
+S4,L1,CG_A,Targ4,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S4,L1,CG_A,Targ5,,,,n,n,y,from-pp,y,towards-pp,source-goal,goes,further describes where the butterfly lands on the chair,MLD
+S4,L1,CG_A,Targ6,,,,n,n,n,,y,towards-pp,goal only,moves,,MLD
+S4,L1,CG_A,Targ7,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S4,L1,CG_A,Targ8,,,,n,n,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S4,L1,CG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,MLD
+S4,L1,CG_A,Targ10,,,,n,n,n,,y,of-pp,goal only,flies,,MLD
+S4,L1,CG_A,Targ11,,,,n,n,y,from-part,y,on-pp,source-goal,comes,,MLD
+S4,L1,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,makes its way,,MLD
+S4,L1,CG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S4,L1,CG_A,Targ14,,,,n,n,n,,y,of-pp,goal only,drives,,MLD
+S4,L1,CG_A,Targ15,,,,n,n,n,,y,towards-pp,goal only,hops,,MLD
+S4,L1,CG_A,Targ16,,,,n,n,n,,y,towards-pp,goal only,tip-toes,,MLD
+S4,L1,CG_A,Targ17,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S4,L1,CG_A,Targ18,,,,n,n,y,from-pp,y,under-pp,goal-source,moves,,MLD
+S5,L2,CG_A,Targ1,,,,n,n,n,,y,to-pp,goal only,jumps,,MLD
+S5,L2,CG_A,Targ2,,,,n,n,n,,y,towards-pp,goal only,gallops,,MLD
+S5,L2,CG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S5,L2,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S5,L2,CG_A,Targ5,,,,y,n,n,,y,v-np,goal only,conjoined,naming error - bird instead of butterfly; conjoined: did XX and landed on the light. ,MLD
+S5,L2,CG_A,Targ6,,,,n,n,n,,y,v-np,goal only,conjoined,conjoined: flew and landed on it,MLD
+S5,L2,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S5,L2,CG_A,Targ8,,,,n,n,n,,y,on-pp,goal only,descends,,MLD
+S5,L2,CG_A,Targ9,,,,n,n,n,,y,other-pp,goal only,slithers,,MLD
+S5,L2,CG_A,Targ10,,,,n,n,n,,y,on-pp,goal only,lands,,MLD
+S5,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,conjoined: launched and landed,MLD
+S5,L2,CG_A,Targ12,,,,n,n,y,other-part,n,,source only,goes,"""outside of""",MLD
+S5,L2,CG_A,Targ13,,,,n,n,n,,y,towards-pp,goal only,crawls,,MLD
+S5,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S5,L2,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hops,,MLD
+S5,L2,CG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,creaps,,MLD
+S5,L2,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,carries,"carries the food - not solely a motion event involving only teh agent, but still goal only",MLD
+S5,L2,CG_A,Targ18,,,,n,n,n,,y,under-pp,goal only,moves,,MLD
+S6,L3,CG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S6,L3,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,gallops,,MLD
+S6,L3,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S6,L3,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S6,L3,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S6,L3,CG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,conjoined: Descends and is now at,MLD
+S6,L3,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S6,L3,CG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S6,L3,CG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,,MLD
+S6,L3,CG_A,Targ10,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,didn't know the word for telephone pole,MLD
+S6,L3,CG_A,Targ11,,,,n,n,y,from-pp,y,v-np,source-goal,conjoined,conjoined: launched & landed,MLD
+S6,L3,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S6,L3,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S6,L3,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S6,L3,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hops,,MLD
+S6,L3,CG_A,Targ16,,,,n,n,n,,y,onto-pp,goal only,conjoined,conjoined: walks and steps,MLD
+S6,L3,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S6,L3,CG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S8,L2,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S8,L2,NCG_A,Targ2,,,,n,n,n,,n,,none,runs,does not describe as a change of location event,MLD
+S8,L2,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S8,L2,NCG_A,Targ4,,,,n,y,n,,y,to-pp,goal only,goes,,MLD
+S8,L2,NCG_A,Targ5,,,,n,y,y,from-pp,y,onto-pp,source-goal,flies,,MLD
+S8,L2,NCG_A,Targ6,,,,n,y,n,,n,,none,flies,does not describe as a change of location event,MLD
+S8,L2,NCG_A,Targ7,,,,n,n,y,from-pp,y,towards-pp,source-goal,walks,"mentions stove, but not as landmark, only as part of kitchen endpoint",MLD
+S8,L2,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S8,L2,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S8,L2,NCG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S8,L2,NCG_A,Targ11,,,,n,y,n,,y,to-pp,goal only,flies,,MLD
+S8,L2,NCG_A,Targ12,,,,n,y,n,,y,other-pp,goal only,goes,,MLD
+S8,L2,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S8,L2,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S8,L2,NCG_A,Targ15,,,,n,y,n,,n,,none,hops,does not describe as a change of location event,MLD
+S8,L2,NCG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S8,L2,NCG_A,Targ17,,,,n,n,n,,n,,none,throws,does not describe as a change of location event; throwing away trash,MLD
+S8,L2,NCG_A,Targ18,,,,n,y,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S7,L1,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S7,L1,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S7,L1,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S7,L1,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S7,L1,NCG_A,Targ5,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,"forgot to press space bar, didn't describe motion event until late",MLD
+S7,L1,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S7,L1,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,"doesn't use bookcase as landmark/endpoint, uses room but says bookcase in room",MLD
+S7,L1,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S7,L1,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,,MLD
+S7,L1,NCG_A,Targ10,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,uses lamppost instead of electric pole,MLD
+S7,L1,NCG_A,Targ11,,,,n,n,y,from-pp,y,v-np,source-goal,conjoined,goes + and lands on,MLD
+S7,L1,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,swims,,MLD
+S7,L1,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S7,L1,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S7,L1,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S7,L1,NCG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,sneaks + goes,MLD
+S7,L1,NCG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,carries,"not just motion event, also a 'brings' event, so the tray of food is the one taht ""seems"" to undergo teh motion, the waitress is just the agent",MLD
+S7,L1,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S9,L3,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,NER
+S9,L3,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,NER
+S9,L3,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,NER
+S9,L3,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S9,L3,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S9,L3,NCG_A,Targ6,,,angel instead of fairy,y,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S9,L3,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,NER
+S9,L3,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S9,L3,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S9,L3,NCG_A,Targ10,,,electric wire pole,y,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S9,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S9,L3,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S9,L3,NCG_A,Targ13,,,,n,y,n,,y,towards-pp,goal only,crawls,,NER
+S9,L3,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S9,L3,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,NER
+S9,L3,NCG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S9,L3,NCG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,NER
+S9,L3,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S10,L1,CG_A,Targ1,,,,n,n,y,from-pp,y,to-part,source-goal,walks,,MLD
+S10,L1,CG_A,Targ2,,,,n,n,n,,y,to-part,goal only,runs,,MLD
+S10,L1,CG_A,Targ3,,,,n,n,y,from-pp,y,to-part,source-goal,runs,,MLD
+S10,L1,CG_A,Targ4,,,,n,n,y,from-pp,y,to-part,source-goal,flies,flies 'back to' - return event,MLD
+S10,L1,CG_A,Targ5,,,,n,n,y,from-pp,y,to-part,source-goal,flies,,MLD
+S10,L1,CG_A,Targ6,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S10,L1,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S10,L1,CG_A,Targ8,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S10,L1,CG_A,Targ9,,,,n,n,y,from-pp,y,to-part,source-goal,slides,,MLD
+S10,L1,CG_A,Targ10,,,,n,n,y,from-pp,y,to-part,source-goal,flies,,MLD
+S10,L1,CG_A,Targ11,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S10,L1,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S10,L1,CG_A,Targ13,,,,n,n,n,,y,to-part,goal only,crawls,,MLD
+S10,L1,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S10,L1,CG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S10,L1,CG_A,Targ16,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S10,L1,CG_A,Targ17,,,,n,n,n,,y,to-part,goal only,walks,plate is mentioned as well,MLD
+S10,L1,CG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,runs,,MLD
+S11,L2,CG_A,Targ1,,,,n,n,y,from-pp,y,onto-pp,source-goal,leaps,,NER
+S11,L2,CG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,gallops,,NER
+S11,L2,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,NER
+S11,L2,CG_A,Targ4,,,honeycomb instead of hive/nest,y,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S11,L2,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S11,L2,CG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S11,L2,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,NER
+S11,L2,CG_A,Targ8,,,,n,n,n,,n,,none,flies,does not describe as a change of location event,NER
+S11,L2,CG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,crawls,"malfunction of PP affected speaker's description ""The snake slithers but stays in place"" ",NER
+S11,L2,CG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S11,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,detaches; flies; lands; 3 part event,NER
+S11,L2,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S11,L2,CG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,NER
+S11,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,NER
+S11,L2,CG_A,Targ15,,,watering hole instead of well,y,n,n,,y,towards-pp,goal only,hops,,NER
+S11,L2,CG_A,Targ16,,,,n,n,n,,n,,none,sneaks,does not describe as a change of location event,NER
+S11,L2,CG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,NER
+S11,L2,CG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,NER
+S12,L3,CG_A,Targ1,,,,n,n,y,from-pp,y,of-pp,source-goal,leaps,,MLD
+S12,L3,CG_A,Targ2,,,,n,y,y,from-pp,y,to-pp,source-goal,gallops,"mentions directions - from right to left, diagonally",MLD
+S12,L3,CG_A,Targ3,,,,n,n,y,from-part,y,to-pp,source-goal,runs,,MLD
+S12,L3,CG_A,Targ4,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,"mentions directions - from right to left, diagonally",MLD
+S12,L3,CG_A,Targ5,,,,n,y,y,other,y,to-pp,source-goal,flies,describes original location of the butterfly in detail first - says it's resting on the chair,MLD
+S12,L3,CG_A,Targ6,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,"mentions directions - from right to left, diagonally",MLD
+S12,L3,CG_A,Targ7,,,,n,y,y,from-pp,y,into-pp,source-goal,conjoined,"mentions directions - from right to left, diagonally",MLD
+S12,L3,CG_A,Targ8,,,,n,y,y,of-pp,y,to-pp,source-goal,moves,mentions directions; mentions the haunted house as a starting point ,MLD
+S12,L3,CG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,mentions directions,MLD
+S12,L3,CG_A,Targ10,,,,n,n,y,from-part,y,of-pp,source-goal,conjoined,flew + rests,MLD
+S12,L3,CG_A,Targ11,,,,n,n,y,from-part,y,to-pp,source-goal,moves,"describes motions in a lot of detail, focus on direction",MLD
+S12,L3,CG_A,Targ12,,,,n,n,y,from-pp,y,other,source-goal,moves,"mentions directions - from right to left, diagonally; mentions the shipwreck as where the submarine stops",MLD
+S12,L3,CG_A,Targ13,,,,n,y,y,from-pp,y,to-pp,source-goal,crawls,"mentions directions - from right to left, diagonally",MLD
+S12,L3,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,mentions direction,MLD
+S12,L3,CG_A,Targ15,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S12,L3,CG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,slides,describes how the burglar was looking,MLD
+S12,L3,CG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,"mentions directions - from right to left, diagonally",MLD
+S12,L3,CG_A,Targ18,,,,n,y,y,other,y,to-part,source-goal,moves,"describes where the mouse started, did not say explicitly that it was from there",MLD
+S13,L1,NCG_A,Targ1,,,,y,n,y,from-pp,y,to-pp,source-goal,jumps,,NER
+S13,L1,NCG_A,Targ2,,,,n,y,y,from-pp,y,to-pp,source-goal,runs,,NER
+S13,L1,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,NER
+S13,L1,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S13,L1,NCG_A,Targ5,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S13,L1,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S13,L1,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,NER
+S13,L1,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S13,L1,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,NER
+S13,L1,NCG_A,Targ10,,,,y,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S13,L1,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,specified Jupiter as the planet,NER
+S13,L1,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S13,L1,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,NER
+S13,L1,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,NER
+S13,L1,NCG_A,Targ15,,,,n,y,y,from-pp,y,over-pp,source-goal,hops,,NER
+S13,L1,NCG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,NER
+S13,L1,NCG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,NER
+S13,L1,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S14,L2,NCG_A,Targ1,,,,n,n,y,off-pp,y,onto-pp,source-goal,hops,,MLD
+S14,L2,NCG_A,Targ2,,,,n,n,y,from-part,n,,source only,runs,flee event,MLD
+S14,L2,NCG_A,Targ3,,,,n,n,n,,y,towards-pp,goal only,runs,,MLD
+S14,L2,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S14,L2,NCG_A,Targ5,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S14,L2,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S14,L2,NCG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S14,L2,NCG_A,Targ8,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S14,L2,NCG_A,Targ9,,,,n,n,n,,n,,none,slithers,does not describe as a change of location event,MLD
+S14,L2,NCG_A,Targ10,,,,n,n,y,off-part,y,onto-pp,source-goal,flies,,MLD
+S14,L2,NCG_A,Targ11,,,,n,n,y,on-pp,y,off-pp,goal-source,conjoined,lands + comes off,MLD
+S14,L2,NCG_A,Targ12,,,,n,y,y,from-part,n,,source only,floats,away event,MLD
+S14,L2,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-part,source-goal,crawls,,MLD
+S14,L2,NCG_A,Targ14,,,,n,n,y,from-part,y,to-pp,source-goal,drives,from in front of...,MLD
+S14,L2,NCG_A,Targ15,,,,n,n,n,,y,towards-pp,goal only,hops,,MLD
+S14,L2,NCG_A,Targ16,,,,n,n,y,of-part,n,,source only,crawls,out of,MLD
+S14,L2,NCG_A,Targ17,,,,n,n,y,from-pp,n,,source only,walks,carrying event,MLD
+S14,L2,NCG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,crawls,,MLD
+S15,L3,NCG_A,Targ1,,,,n,n,y,from-pp,y,onto-pp,source-goal,leaps,,MLD
+S15,L3,NCG_A,Targ2,,,,n,n,y,of-part,n,,source only,runs,out of,MLD
+S15,L3,NCG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S15,L3,NCG_A,Targ4,,,,n,n,n,,y,into-pp,goal only,flies,,MLD
+S15,L3,NCG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S15,L3,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S15,L3,NCG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S15,L3,NCG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S15,L3,NCG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,MLD
+S15,L3,NCG_A,Targ10,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S15,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S15,L3,NCG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,goes,,MLD
+S15,L3,NCG_A,Targ13,,,,n,n,n,,y,towards-pp,goal only,crawls,,MLD
+S15,L3,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S15,L3,NCG_A,Targ15,,,,n,n,n,,y,to-pp,goal only ,hops,,MLD
+S15,L3,NCG_A,Targ16,,,,n,n,n,,n,,none,walks,does not describe as a change of location event,MLD
+S15,L3,NCG_A,Targ17,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S15,L3,NCG_A,Targ18,,,,n,n,n,,y,under-pp,goal only,goes,,MLD
+S16,L1,CG_A,Targ1,,,,n,n,n,,y,to-pp,goal only,jumps,,MLD
+S16,L1,CG_A,Targ2,,,,n,n,n,,y,towards-pp,goal only,gallops,,MLD
+S16,L1,CG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S16,L1,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S16,L1,CG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S16,L1,CG_A,Targ6,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S16,L1,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S16,L1,CG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S16,L1,CG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,MLD
+S16,L1,CG_A,Targ10,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S16,L1,CG_A,Targ11,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S16,L1,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,moves,,MLD
+S16,L1,CG_A,Targ13,,,,n,n,n,,y,towards-pp,goal only,crawls,,MLD
+S16,L1,CG_A,Targ14,,,,n,n,n,,y,to-pp,goal only,drives,,MLD
+S16,L1,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hops,,MLD
+S16,L1,CG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,tip-toes,,MLD
+S16,L1,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S16,L1,CG_A,Targ18,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S18,L3,CG_A,Targ1,,,,n,n,n,,y,to-part,goal only,hops,,MLD
+S18,L3,CG_A,Targ2,,,,n,n,y,from-pp,y,to-part,source-goal,trots,,MLD
+S18,L3,CG_A,Targ3,,,,,,,,,,,,***skipped - accidentally clicked too fast***,MLD
+S18,L3,CG_A,Targ4,,,,n,n,y,from-pp,y,to-part,source-goal,conjoined,flies + stops,MLD
+S18,L3,CG_A,Targ5,,,,n,n,n,,y,on-pp,goal only,lands,,MLD
+S18,L3,CG_A,Targ6,,,,n,n,y,from-pp,y,of-pp,source-goal,conjoined,flies + stops ,MLD
+S18,L3,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S18,L3,CG_A,Targ8,,,,n,n,y,from-part,y,to-part,source-goal,flies,away event,MLD
+S18,L3,CG_A,Targ9,,,,n,n,y,from-pp,y,to-part,source-goal,lurks,,MLD
+S18,L3,CG_A,Targ10,,,,n,n,y,from-part,y,to-part,source-goal,flies,,MLD
+S18,L3,CG_A,Targ11,,,,n,n,y,off-pp,y,to-part,source-goal,shoots,,MLD
+S18,L3,CG_A,Targ12,,,,n,n,y,of-part,y,to-part,source-goal,floats,,MLD
+S18,L3,CG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S18,L3,CG_A,Targ14,,,,n,n,y,from-pp,y,to-part,source-goal,drives,,MLD
+S18,L3,CG_A,Targ15,,,,n,n,y,from-pp,y,to-part,source-goal,hops,,MLD
+S18,L3,CG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,creeps,,MLD
+S18,L3,CG_A,Targ17,,,,n,n,n,,y,to-part,goal only,carries,bring event - not just change of location,MLD
+S18,L3,CG_A,Targ18,,,,n,n,y,from-pp,y,other-part,source-goal,slides,,MLD
+S19,L1,NCG_A,Targ1,,,,n,y,y,from-pp,y,onto-pp,source-goal,jumps,,MLD
+S19,L1,NCG_A,Targ2,,,,n,n,y,from-part,y,to-pp,source-goal,runs,,MLD
+S19,L1,NCG_A,Targ3,,,,n,y,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S19,L1,NCG_A,Targ4,,,,n,y,y,on-pp,y,to-pp,source-goal,flies,"describes original location, but doesnt explicitly mention it as starting point",MLD
+S19,L1,NCG_A,Targ5,,,,n,y,y,other,y,to-pp,source-goal,flies,"error - had to press space twice to start video; describes butterfly sitting on the lamppost, but doesn't explicitly say that the butterfly started out from there",MLD
+S19,L1,NCG_A,Targ6,,,,n,y,y,other,y,to-pp,source-goal,flies,"describes original location of fairy, but doesnt' explicilty say that that was the starting point",MLD
+S19,L1,NCG_A,Targ7,,,,n,y,y,from-pp,y,into-pp,source-goal,walks,"describes the room as the landmarks, but still mentions bookshelf",MLD
+S19,L1,NCG_A,Targ8,,,,n,y,y,from-pp,y,to-part,source-goal,goes,,MLD
+S19,L1,NCG_A,Targ9,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S19,L1,NCG_A,Targ10,,,,n,y,y,from-pp,y,of-pp,source-goal,flies,,MLD
+S19,L1,NCG_A,Targ11,,,,n,y,y,v-np,y,onto-pp,source-goal,conjoined,leaves + makes its way,MLD
+S19,L1,NCG_A,Targ12,,,,n,y,y,at-pp,y,to-pp,source-goal,moves,,MLD
+S19,L1,NCG_A,Targ13,,,,n,y,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S19,L1,NCG_A,Targ14,,,,n,y,y,from-pp,y,of-pp,source-goal,drives,,MLD
+S19,L1,NCG_A,Targ15,,,,n,y,y,other,y,towards-pp,source-goal,jumps,"describes original location of bunny, but doesnt' explicilty say that that was the starting point",MLD
+S19,L1,NCG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S19,L1,NCG_A,Targ17,,,,n,y,y,from-part,y,to-part,source-goal,walks,,MLD
+S19,L1,NCG_A,Targ18,,,,n,y,y,from-pp,y,other-pp,source-goal,moves,,MLD
+S29,L1,CG_A,Targ1,,,,n,n,n,,y,on-pp,goal only,conjoined,jumps + lands,MLD
+S29,L1,CG_A,Targ2,,,,n,n,n,,y,to-part,goal only,runs,,MLD
+S29,L1,CG_A,Targ3,,,,n,n,n,,y,to-part,goal only,runs,,MLD
+S29,L1,CG_A,Targ4,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S29,L1,CG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S29,L1,CG_A,Targ6,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S29,L1,CG_A,Targ7,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S29,L1,CG_A,Targ8,,,,n,n,n,,y,to-part,goal only,flies,down to,MLD
+S29,L1,CG_A,Targ9,,,,n,n,n,,y,to-part,goal only,crawls,,MLD
+S29,L1,CG_A,Targ10,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S29,L1,CG_A,Targ11,,,,n,n,y,v-np,y,towards-pp,source-goal,conjoined,leaves + flies,MLD
+S29,L1,CG_A,Targ12,,,,n,n,n,,y,to-part,goal only,swims,,MLD
+S29,L1,CG_A,Targ13,,,,n,n,n,,y,to-part,goal only,crawls,,MLD
+S29,L1,CG_A,Targ14,,,,n,n,n,,y,to-pp,goal only,drives,,MLD
+S29,L1,CG_A,Targ15,,,,n,n,n,,y,to-part,goal only,hops,,MLD
+S29,L1,CG_A,Targ16,,,,n,n,n,,y,to-part,goal only,moves,,MLD
+S29,L1,CG_A,Targ17,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S29,L1,CG_A,Targ18,,,,n,n,n,,y,towards-pp,goal only,moves,,MLD
+S28,L3,NCG_A,Targ1,,,,n,n,y,of-part,y,to-part,source-goal,hops,,MLD
+S28,L3,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,trots,,MLD
+S28,L3,NCG_A,Targ3,,,,n,y,y,from-pp,y,to-pp,source-goal,travels,,MLD
+S28,L3,NCG_A,Targ4,,,,n,y,y,from-part,y,to-pp,source-goal,flies,,MLD
+S28,L3,NCG_A,Targ5,,,,n,y,y,v-np,y,v-np,source-goal,conjoined,leaves + reaches,MLD
+S28,L3,NCG_A,Targ6,,,,n,y,y,from-pp,y,to-pp,source-goal,hovers,,MLD
+S28,L3,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S28,L3,NCG_A,Targ8,,,,n,y,y,from-part,y,to-pp,source-goal,floats,,MLD
+S28,L3,NCG_A,Targ9,,,,n,y,y,at-pp,y,to-pp,source-goal,travels,starts + stop,MLD
+S28,L3,NCG_A,Targ10,,,,n,y,y,of-part,y,to-pp,source-goal,floats,,MLD
+S28,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,leaves + stop,MLD
+S28,L3,NCG_A,Targ12,,,,n,y,y,from-pp,y,to-pp,source-goal,travels,,MLD
+S28,L3,NCG_A,Targ13,,,,n,y,y,from-pp,y,towards-pp,source-goal,crawls,,MLD
+S28,L3,NCG_A,Targ14,,,,n,y,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S28,L3,NCG_A,Targ15,,,,n,y,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S28,L3,NCG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S28,L3,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,also describes carrying stuff,MLD
+S28,L3,NCG_A,Targ18,,,,n,y,y,under-pp,y,to-pp,source-goal,travels,,MLD
+S27,L2,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S27,L2,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S27,L2,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S27,L2,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S27,L2,NCG_A,Targ5,,,,n,y,y,other-pp,y,to-part,source-goal,flies,doesn't say that the butterfly starts from the chair explicitly,MLD
+S27,L2,NCG_A,Targ6,,,,n,y,y,from-pp,y,to-part,source-goal,flies,"doesn't say that the fairy ends up at the rainbow explicitly,says she flies to hte sky, but mentions the rainbow",MLD
+S27,L2,NCG_A,Targ7,,,,n,n,y,from-pp,y,into-pp,source-goal,walks,"uses rooms as landmarks, but mentions bookshelf and stove",MLD
+S27,L2,NCG_A,Targ8,,,,n,n,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S27,L2,NCG_A,Targ9,,,,n,y,y,from-part,y,to-part,source-goal,slithers,,MLD
+S27,L2,NCG_A,Targ10,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,flies + lands,MLD
+S27,L2,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S27,L2,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S27,L2,NCG_A,Targ13,,,,n,n,y,from-pp,y,towards-pp,source-goal,crawls,,MLD
+S27,L2,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S27,L2,NCG_A,Targ15,,,,n,n,y,from-pp,y,towards-pp,source-goal,hops,,MLD
+S27,L2,NCG_A,Targ16,,,,n,n,n,,n,,none,walks,does not describe as a change of location event,MLD
+S27,L2,NCG_A,Targ17,,,,n,y,y,from-pp,y,towards-pp,source-goal,walks,,MLD
+S27,L2,NCG_A,Targ18,,,,n,y,y,from-pp,y,towards-pp,source-goal,goes,,MLD
+S26,L1,NCG_A,Targ1,,,,n,y,y,from-pp,y,to-pp,source-goal,leaps,,MLD
+S26,L1,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S26,L1,NCG_A,Targ3,,,,n,n,y,from-pp,y,towards-pp,source-goal,runs,,MLD
+S26,L1,NCG_A,Targ4,,,,n,y,y,from-pp,y,into-pp,source-goal,flies,,MLD
+S26,L1,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-part,source-goal,conjoined,flies + lands,MLD
+S26,L1,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,moves + flies,MLD
+S26,L1,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S26,L1,NCG_A,Targ8,,,,n,y,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S26,L1,NCG_A,Targ9,,,,n,y,n,,y,towards-pp,goal only,slithers,,MLD
+S26,L1,NCG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S26,L1,NCG_A,Targ11,,,,n,n,y,other-pp,y,on-pp,source-goal,conjoined,"launched + lands; maybe be careful with this one? the satellite is a landmark, but she uses it not as the source - past the satellite suggests it came from somewhere else",MLD
+S26,L1,NCG_A,Targ12,,,,n,y,y,from-pp,y,towards-pp,source-goal,moves,,MLD
+S26,L1,NCG_A,Targ13,,,,n,y,y,from-pp,y,towards-pp,source-goal,crawls,,MLD
+S26,L1,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S26,L1,NCG_A,Targ15,,,,n,n,y,from-pp,y,towards-pp,source-goal,hops,,MLD
+S26,L1,NCG_A,Targ16,,,,n,n,n,,y,towards-pp,goal only,tip-toes,,MLD
+S26,L1,NCG_A,Targ17,,,,n,y,n,,n,,none,throws,does not describe as a change of location event,MLD
+S26,L1,NCG_A,Targ18,,,,n,y,y,from-part,y,to-pp,source-goal,crawls,,MLD
+S25,L3,CG_A,Targ1,,,,n,n,n,,n,,none,leaps,"doesn't list starting point or end point, uses the screen as end point. not felicitous in description of event",MLD
+S25,L3,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S25,L3,CG_A,Targ3,,,,n,n,n,,n,,none,runs,"doesn't list starting point or end point, uses the screen as end point. not felicitous in description of event",MLD
+S25,L3,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S25,L3,CG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S25,L3,CG_A,Targ6,,,,n,n,n,,y,to-pp,goal only,moves,,MLD
+S25,L3,CG_A,Targ7,,,,n,n,n,,y,of-pp,goal only,walks,"doesn't say that the boy ends up at the stove explicitly, says he's in front of. I htink this is still an endpoint",MLD
+S25,L3,CG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S25,L3,CG_A,Targ9,,,,n,n,n,,n,,none,slithers,"doesn't list starting point or end point, uses the screen as end point. not felicitous in description of event",MLD
+S25,L3,CG_A,Targ10,,,,n,n,n,,y,on-pp,goal only,flies,,MLD
+S25,L3,CG_A,Targ11,,,,n,n,n,,n,,none,conjoined,"takes off + flies - doesn't list starting point or end point, uses the screen as end point. not felicitous in description of event",MLD
+S25,L3,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,goes,,MLD
+S25,L3,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S25,L3,CG_A,Targ14,,,,n,n,n,,n,,none,drives,"doesn't list starting point or end point, uses the screen as end point. not felicitous in description of event",MLD
+S25,L3,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hops,,MLD
+S25,L3,CG_A,Targ16,,,,n,n,n,,n,,none,creeps,"doesn't list starting point or end point, uses the screen as end point. not felicitous in description of event",MLD
+S25,L3,CG_A,Targ17,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S25,L3,CG_A,Targ18,,,,n,n,n,,y,under-pp,goal only,crawls,,MLD
+S24,L2,CG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S24,L2,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S24,L2,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S24,L2,CG_A,Targ4,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S24,L2,CG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S24,L2,CG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S24,L2,CG_A,Targ7,,,,n,n,n,,y,into-pp,goal only,walks,"mentions teh stove, but not as an endpoint. uses room as endpoint",MLD
+S24,L2,CG_A,Targ8,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S24,L2,CG_A,Targ9,,,said 'slake' instead of 'snake',y,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S24,L2,CG_A,Targ10,,,,n,n,y,from-pp,y,on-pp,source-goal,flies,doesn't actually say 'to'? ,MLD
+S24,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,goes + lands,MLD
+S24,L2,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,goal-source,swims,,MLD
+S24,L2,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S24,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,goal-source,drives,,MLD
+S24,L2,CG_A,Targ15,,,,n,n,n,,y,to-part,goal only,hops,,MLD
+S24,L2,CG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,sneaks,,MLD
+S24,L2,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,moves,,MLD
+S24,L2,CG_A,Targ18,,,,n,n,n,,y,to-pp,goal only,goes,,MLD
+S23,L1,CG_A,Targ1,,,,y,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S23,L1,CG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S23,L1,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S23,L1,CG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S23,L1,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S23,L1,CG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S23,L1,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S23,L1,CG_A,Targ8,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S23,L1,CG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S23,L1,CG_A,Targ10,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S23,L1,CG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,flies + lands,MLD
+S23,L1,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S23,L1,CG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S23,L1,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S23,L1,CG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S23,L1,CG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,"doesn't say ladder is starting point - uses 'edge of roof' as starting point, but still mentions starting point",MLD
+S23,L1,CG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S23,L1,CG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S22,L3,NCG_A,Targ1,,,,n,n,y,from-pp,y,onto-pp,source-goal,jumps,,MLD
+S22,L3,NCG_A,Targ2,,,,n,y,y,other-pp,y,towards-pp,source-goal,runs,by is the pp,MLD
+S22,L3,NCG_A,Targ3,,,,n,n,y,from-pp,y,towards-pp,source-goal,runs,,MLD
+S22,L3,NCG_A,Targ4,,,,n,n,y,at-pp,y,to-pp,source-goal,conjoined,starting + flying,MLD
+S22,L3,NCG_A,Targ5,,,,n,y,y,other-pp,y,towards-pp,source-goal,flies,,MLD
+S22,L3,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-part,source-goal,floats,,MLD
+S22,L3,NCG_A,Targ7,,,,n,n,y,from-pp,y,into-pp,source-goal,walks,"uses the rooms as the starting and ending points, references bookshelf and stove still",MLD
+S22,L3,NCG_A,Targ8,,,,n,n,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S22,L3,NCG_A,Targ9,,,,n,n,y,from-pp,y,towards-pp,source-goal,slithers,,MLD
+S22,L3,NCG_A,Targ10,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,"flying + lands -- originally starts out with towards, and this would make this just one event, but then changes to lands",MLD
+S22,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,take off + lands,MLD
+S22,L3,NCG_A,Targ12,,,,n,n,y,from-pp,y,towards-pp,source-goal,travels,,MLD
+S22,L3,NCG_A,Targ13,,,,n,y,y,other-pp,y,towards-pp,source-goal,crawls,next-to is the pp,MLD
+S22,L3,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,travels,,MLD
+S22,L3,NCG_A,Targ15,,,,n,y,y,other-pp,y,towards-pp,source-goal,hops,by is the pp,MLD
+S22,L3,NCG_A,Targ16,,,,n,y,n,,n,,none,runs,does not describe as a change of location event,MLD
+S22,L3,NCG_A,Targ17,,,,n,n,y,other-pp,y,to-pp,goal-source,carries,"waitress is agent, not just hange of location event",MLD
+S22,L3,NCG_A,Targ18,,,,n,n,y,from-part,y,towards-pp,goal-source,crawls,also later mentions underneath,MLD
+S21,L2,NCG_A,Targ1,,,,n,n,y,from-part,y,to-pp,source-goal,jumps,,MLD
+S21,L2,NCG_A,Targ2,,,,n,n,n,,n,,none,walks,does not describe as a change of location event,MLD
+S21,L2,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S21,L2,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S21,L2,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S21,L2,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S21,L2,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,"doesn't uses the bookshelf and stove as landmarks, but still references them. uses the room as landmarks",MLD
+S21,L2,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S21,L2,NCG_A,Targ9,,,,n,y,y,from-pp,y,to-pp,source-goal,slithers,,MLD
+S21,L2,NCG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S21,L2,NCG_A,Targ11,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S21,L2,NCG_A,Targ12,,,,n,y,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S21,L2,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S21,L2,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S21,L2,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S21,L2,NCG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S21,L2,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,also describes what she's carrying,MLD
+S21,L2,NCG_A,Targ18,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S30,L2,CG_A,Targ1,,,prolongs 'lily' like she's not sure whether it's actually a lily or not,y,n,y,from-pp,y,towards-pp,source-goal,leaps,,MLD
+S30,L2,CG_A,Targ2,,,,n,n,y,from-pp,y,towards-pp,goal-source,runs,,MLD
+S30,L2,CG_A,Targ3,,,says 'barn' instead of 'doghouse',y,n,y,from-pp,y,towards-pp,goal-source,runs,,MLD
+S30,L2,CG_A,Targ4,,,,n,n,y,from-pp,y,towards-pp,goal-source,flies,,MLD
+S30,L2,CG_A,Targ5,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S30,L2,CG_A,Targ6,,,,n,n,n,,y,into-part,goal only,flies,,MLD
+S30,L2,CG_A,Targ7,,,,n,n,y,from-pp,y,towards-pp,goal-source,walks,,MLD
+S30,L2,CG_A,Targ8,,,,n,n,y,from-pp,y,towards-pp,goal-source,flies,,MLD
+S30,L2,CG_A,Targ9,,,,n,n,y,from-pp,y,towards-pp,source-goal,slithers,,MLD
+S30,L2,CG_A,Targ10,,,has trouble designating specific location on tent,y,n,y,from-pp,y,to-pp,goal-source,flies,,MLD
+S30,L2,CG_A,Targ11,,,,n,n,n,,y,towards-pp,goal only,conjoined,moves to planet and then moves inwards,MLD
+S30,L2,CG_A,Targ12,,,,n,n,y,from-pp,y,towards-pp,goal-source,moves,,MLD
+S30,L2,CG_A,Targ13,,,,n,n,y,from-pp,y,towards-pp,goal-source,crawls,,MLD
+S30,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,towards-pp,goal-source,moves,,MLD
+S30,L2,CG_A,Targ15,,,,n,n,n,,y,towards-pp,goal only,hops,,MLD
+S30,L2,CG_A,Targ16,,,,n,n,n,,y,at-pp,goal only,slides,"not sure this is a change of location event that she's describing; exclude probably, weird arm focus in description",MLD
+S30,L2,CG_A,Targ17,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S30,L2,CG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S31,L3,CG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S31,L3,CG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S31,L3,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S31,L3,CG_A,Targ4,,,,n,n,y,at-pp,y,to-part,source-goal,flies,,MLD
+S31,L3,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S31,L3,CG_A,Targ6,,,,n,n,y,from-pp,y,to-part,source-goal,flies,,MLD
+S31,L3,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,"mentions the room, shelf and oven are still landmarks",MLD
+S31,L3,CG_A,Targ8,,,,n,n,y,from-pp,y,to-part,source-goal,flies,moon is not necessarily stopping point,MLD
+S31,L3,CG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,,MLD
+S31,L3,CG_A,Targ10,,,,n,n,y,from-part,y,to-part,source-goal,flies,,MLD
+S31,L3,CG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,ascended + flew + landed,MLD
+S31,L3,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,swims,,MLD
+S31,L3,CG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S31,L3,CG_A,Targ14,,,drew instead of drove,y,n,y,from-part,y,to-part,source-goal,drives,,MLD
+S31,L3,CG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S31,L3,CG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,struts,,MLD
+S31,L3,CG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S31,L3,CG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,goes,,MLD
+S32,L1,NCG_P,Targ1,,,,n,n,y,of-part,n,,source only,jumps,,MLD
+S32,L1,NCG_P,Targ2,,,,n,n,n,,n,,none,runs,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ3,,,,n,n,n,,n,,none,runs,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ4,,,,n,n,n,,n,,none,flies,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ5,,,,n,n,n,,n ,,none,flapping,does not describe as a change of location event,MLD
+S32,L1,NCG_P,Targ6,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S32,L1,NCG_P,Targ7,,,,n,n,n,,n,,none,walks,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ8,,,,n,n,n,,n,,none,flies,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ9,,,,n,n,n,,n,,none,slithers,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ10,,,,n,n,n,,n,,none,flies,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ11,,,calls rocket 'air shuttle' then corrects ot 'space shuttle',n,n,n,,y,on-pp,goal only,lands,,MLD
+S32,L1,NCG_P,Targ12,,,,n,n,n,,y,into-pp,goal only,goes,,MLD
+S32,L1,NCG_P,Targ13,,,,n,n,n,,n,,none,crawls,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ14,,,,n,n,n,,n,,none,drives,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ15,,,,n,n,n,,n,,none,hops,not felicitous description of event,MLD
+S32,L1,NCG_P,Targ16,,,,n,n,n,,n,,none,breaks into,does not describe as a change of location event,MLD
+S32,L1,NCG_P,Targ17,,,,n,n,n,,n,,none,carries,does not describe as a change of location event,MLD
+S32,L1,NCG_P,Targ18,,,,n,n,n,,n,,none,hides,does not describe as a change of location event,MLD
+S33,L2,NCG_P,Targ1,,,,n,n,y,from-pp,y,onto-pp,source-goal,leaps,"includes ""across the water"" in between source/goal mentions",NER
+S33,L2,NCG_P,Targ2,,,,n,y,y,from-pp,y,to-pp,source-goal,trots,,NER
+S33,L2,NCG_P,Targ3,,,,n,y,y,from-pp,y,to-pp,source-goal,runs,,NER
+S33,L2,NCG_P,Targ4,,,,y,y,y,from-pp,y,other-part,source-goal,flies,"""all the way down to the ground towards a purple flower""",NER
+S33,L2,NCG_P,Targ5,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,NER
+S33,L2,NCG_P,Targ6,,,,n,n,y,from-pp,y,other-part,source-goal,flies,,NER
+S33,L2,NCG_P,Targ7,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,NER
+S33,L2,NCG_P,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S33,L2,NCG_P,Targ9,,,,n,y,y,from-pp,y,other-part,source-goal,slithers,"""all the way behind a small bush""",NER
+S33,L2,NCG_P,Targ10,,,,n,n,y,from-pp,y,other-pp,source-goal,flies,"""down to a green tent"" AND turns it into two motion events",NER
+S33,L2,NCG_P,Targ11,,,,n,n,y,from-pp,y,other-part,source-goal,flies,"""all the way down to Jupiter and lands""",NER
+S33,L2,NCG_P,Targ12,,,,n,y,y,other-pp,y,v-np,source-goal,conjoined,"searches + swims/goes; describes source portion as different event than the movement to the goal, but mentions the action at the source first and describes motion as leaving there",NER
+S33,L2,NCG_P,Targ13,,,,n,y,y,from-pp,y,to-pp,source-goal,crawls,,NER
+S33,L2,NCG_P,Targ14,,,,n,n,y,from-pp,y,other-part,source-goal,conjoined,drives + parks,NER
+S33,L2,NCG_P,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,"""all the way to""",NER
+S33,L2,NCG_P,Targ16,,,,n,n,n,,y,towards-pp,goal only,crawls,,NER
+S33,L2,NCG_P,Targ17,,,,n,y,y,from-pp,y,over-pp,source-goal,walks,,NER
+S33,L2,NCG_P,Targ18,,,,n,n,y,other-part,y,other-part,source-goal,crawls,from underneath....to underneath,NER
+S34,L3,NCG_P,Targ1,,,,n,y,y,from-pp,y,onto-pp,source-goal,conjoined,leaps/hops,NER
+S34,L3,NCG_P,Targ2,,,,n,y,y,other,y,over-part,source-goal,trots,,NER
+S34,L3,NCG_P,Targ3,,,,n,y,y,other,y,over-part,source-goal,conjoined,runs/sits,NER
+S34,L3,NCG_P,Targ4,,,,n,y,y,other,y,other-part,source-goal,flies,,NER
+S34,L3,NCG_P,Targ5,,,,n,y,y,other,y,other,source-goal,conjoined,flies/goes/lands,NER
+S34,L3,NCG_P,Targ6,,,,n,y,y,other,y,other,source-goal,conjoined,comes/goes/stands,NER
+S34,L3,NCG_P,Targ7,,,,n,y,y,other,y,to-pp,source-goal,walks,very complex description,NER
+S34,L3,NCG_P,Targ8,,,,n,y,y,other,y,to-pp,source-goal,flies,2 part event,NER
+S34,L3,NCG_P,Targ9,,,,y,y,y,other,y,other,source-goal,slithers,re-describes the source/goal with multiple pp,NER
+S34,L3,NCG_P,Targ10,,,,n,y,y,other,y,other,source-goal,conjoined,goes/sits,NER
+S34,L3,NCG_P,Targ11,,,,n,y,y,other,y,other,source-goal,conjoined,gets/goes/attaches,NER
+S34,L3,NCG_P,Targ12,,,,n,y,y,other,y,to-pp,source-goal,conjoined,comes/goes,NER
+S34,L3,NCG_P,Targ13,,,,n,y,y,other,y,over-part,source-goal,crawls,,NER
+S34,L3,NCG_P,Targ14,,,,n,y,y,other,y,other,source-goal,drives,,NER
+S34,L3,NCG_P,Targ15,,,,n,y,y,other,y,other,source-goal,conjoined,hops/stands,NER
+S34,L3,NCG_P,Targ16,,,,n,y,y,other-part,y,over-part,source-goal,goes,,NER
+S34,L3,NCG_P,Targ17,,,,n,y,y,from-pp,y,other,source-goal,walks,"""to the other corner of the room which has a fridge in it...""",NER
+S34,L3,NCG_P,Targ18,,,,n,y,y,other,y,other,source-goal,goes,2 part event,NER
+S35,L1,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S35,L1,NCG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S35,L1,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S35,L1,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S35,L1,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S35,L1,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S35,L1,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S35,L1,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S35,L1,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,,MLD
+S35,L1,NCG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S35,L1,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S35,L1,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S35,L1,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S35,L1,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S35,L1,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S35,L1,NCG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,runs,"doesn't mention ladder as source, but says climbs, which implies use of the ladder to get on top of the roof.",MLD
+S35,L1,NCG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,brings,,MLD
+S35,L1,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S36,L2,NCG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,hops,,NER
+S36,L2,NCG_A,Targ2,,,,n,n,n,,n,,none,runs,does not describe as a change of location event,NER
+S36,L2,NCG_A,Targ3,,,,n,n,n,,n,,none,runs,does not describe as a change of location event,NER
+S36,L2,NCG_A,Targ4,,,,n,n,n,,y,onto-pp,goal only,flies,,NER
+S36,L2,NCG_A,Targ5,,,,y,n,n,,y,onto-pp,goal only,flies,,NER
+S36,L2,NCG_A,Targ6,,,,n,n,y,from-pp,y,into-pp,source-goal,flies,,NER
+S36,L2,NCG_A,Targ7,,,,n,n,y,from-pp,y,into-pp,source-goal,walks,,NER
+S36,L2,NCG_A,Targ8,,,,n,n,n,,n,,none,flies,does not describe as a change of location event,NER
+S36,L2,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,from one end to another* so not really source/goal mention?,NER
+S36,L2,NCG_A,Targ10,,,,n,n,y,from-pp,y,onto-pp,source-goal,flies,,NER
+S36,L2,NCG_A,Targ11,,,,n,n,n,,y,on-pp,goal only,lands,,NER
+S36,L2,NCG_A,Targ12,,,,n,n,n,,n,,none,explores,does not describe as a change of location event,NER
+S36,L2,NCG_A,Targ13,,,,n,y,y,from-pp,y,to-pp,source-goal,crawls,,NER
+S36,L2,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,NER
+S36,L2,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,conjoined,hops/jumps,NER
+S36,L2,NCG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,from one end to the other* so not really source/goal mention? ,NER
+S36,L2,NCG_A,Targ17,,,,n,n,n,,n,,none,throws,does not describe as a change of location event,NER
+S36,L2,NCG_A,Targ18,,,,n,n,n,,n,,none,is,does not describe as a change of location event,NER
+S37,L3,NCG_A,Targ1,,,,n,n,y,from-pp,y,onto-pp,source-goal,jumps,,NER
+S37,L3,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,gallops,,NER
+S37,L3,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S37,L3,NCG_A,Targ4,,,,n,n,y,from-pp,y,other-part,source-goal,flies,back to his hive,NER
+S37,L3,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S37,L3,NCG_A,Targ6,,,,n,n,y,from-pp,y,onto-pp,source-goal,descends,,NER
+S37,L3,NCG_A,Targ7,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,NER
+S37,L3,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S37,L3,NCG_A,Targ9,,,,n,n,n,,n,,none,slithers,does not describe as a change of location event,NER
+S37,L3,NCG_A,Targ10,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,,NER
+S37,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S37,L3,NCG_A,Targ12,,,,n,n,n,,y,other,source only,explores,,NER
+S37,L3,NCG_A,Targ13,,,,n,y,n,,y,to-pp,goal only,crawls,in a living room implies couch,NER
+S37,L3,NCG_A,Targ14,,,,n,n,y,from-pp,y,other,source-goal,drives,"""Back home"" as goal mention",NER
+S37,L3,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,NER
+S37,L3,NCG_A,Targ16,,,,n,n,n,,n,,none,snoops,does not describe as a change of location event,NER
+S37,L3,NCG_A,Targ17,,,,n,y,n,,n,,none,delivers,doesn't describe as change of location event; mentions only the trash can (source) but not as it relates to motion event,NER
+S37,L3,NCG_A,Targ18,,,,n,y,n,,n,,none,scurries,does not describe as a change of location event,NER
+S38,L1,CG_A,Targ1,,,,n,y,y,from-pp,y,onto-pp,source-goal,jumps,describes the event multiple times,NER
+S38,L1,CG_A,Targ2,,,,n,y,y,from-pp,y,other-part,source-goal,gallops,back to the barn,NER
+S38,L1,CG_A,Targ3,,,,n,y,y,other,y,over-part,source-goal,runs,,NER
+S38,L1,CG_A,Targ4,,,,n,y,y,from-pp,y,over-part,source-goal,flies,,NER
+S38,L1,CG_A,Targ5,,,,n,y,y,other,y,other,source-goal,moves,multi-part event,NER
+S38,L1,CG_A,Targ6,,,,n,y,n,,y,other-part,goal only,flies,,NER
+S38,L1,CG_A,Targ7,,,,n,y,y,from-pp,y,over-part,source-goal,walks,,NER
+S38,L1,CG_A,Targ8,,,,n,y,n,,y,towards-part,goal only,flies,,NER
+S38,L1,CG_A,Targ9,,,,n,y,y,other,y,to-pp,source-goal,moves,describes event multiple times,NER
+S38,L1,CG_A,Targ10,,,,n,y,y,other,y,to-pp,source-goal,moves,,NER
+S38,L1,CG_A,Targ11,,,,n,y,n,,y,other,goal only,conjoined,gets/lands,NER
+S38,L1,CG_A,Targ12,,,,n,y,y,other,y,over-part,source-goal,moves,,NER
+S38,L1,CG_A,Targ13,,,,n,y,y,other,y,to-pp,source-goal,crawls,from there,NER
+S38,L1,CG_A,Targ14,,,,n,y,y,from-pp,y,over-part,source-goal,drives,all the way over to the store,NER
+S38,L1,CG_A,Targ15,,,,n,y,y,over-part,y,over-part,source-goal,hops,2-part event,NER
+S38,L1,CG_A,Targ16,,,,n,y,n,,y,into-pp,goal only,conjoined,walks/climbs/strikes/reaches/steps,NER
+S38,L1,CG_A,Targ17,,,,n,y,y,from-pp,y,over-pp,source-goal,walks,,NER
+S38,L1,CG_A,Targ18,,,,n,y,y,from-pp,y,under-pp,source-goal,conjoined,goes/moves,NER
+S39,L2,CG_A,Targ1,,,,n,n,n,,y,to-pp,goal only,jumps,,NER
+S39,L2,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,goes,,NER
+S39,L2,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S39,L2,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S39,L2,CG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,conjoined,flies/go,NER
+S39,L2,CG_A,Targ6,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S39,L2,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,NER
+S39,L2,CG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S39,L2,CG_A,Targ9,,,,n,n,y,from-pp,y,to-part,source-goal,goes,,NER
+S39,L2,CG_A,Targ10,,,,n,n,n,,y,other-part,goal only,flies,,NER
+S39,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,go/lands,NER
+S39,L2,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,goes,,NER
+S39,L2,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,NER
+S39,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,other,source-goal,goes,"""back home"" to indicate goal",NER
+S39,L2,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hops,,NER
+S39,L2,CG_A,Targ16,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S39,L2,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,walks,,NER
+S39,L2,CG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S40,L3,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,jumps,,NER
+S40,L3,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,gallops,,NER
+S40,L3,CG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,NER
+S40,L3,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S40,L3,CG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S40,L3,CG_A,Targ6,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S40,L3,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,NER
+S40,L3,CG_A,Targ8,,,,n,n,n,,y,to-part,goal only,flies,,NER
+S40,L3,CG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,NER
+S40,L3,CG_A,Targ10,,,,n,n,n,,y,to-pp,goal only,flies,,NER
+S40,L3,CG_A,Targ11,,,,y,n,y,from-pp,y,to-pp,source-goal,goes,,NER
+S40,L3,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,swims,,NER
+S40,L3,CG_A,Targ13,,,,n,n,n,,n,,none,crawls,does not mention either source or goal - just general crawling action,NER
+S40,L3,CG_A,Targ14,,,,n,n,n,,y,to-pp,goal only,drives,,NER
+S40,L3,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,jumps,,NER
+S40,L3,CG_A,Targ16,,,,n,n,n,,n,,none,walks,"does not mention either source or goal - just general action, but changes her mind about the action 3 different times walks/crawls/tiptoes",NER
+S40,L3,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,goes,,NER
+S40,L3,CG_A,Targ18,,,,n,n,n,,y,to-pp,goal only,goes,,NER
+S41,L2,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,leaps,,MLD
+S41,L2,CG_A,Targ2,,,,n,n,y,from-part,y,to-part,source-goal,moves,also notes galloping,MLD
+S41,L2,CG_A,Targ3,,,,n,n,n,,y,of-part,goal only,runs,,MLD
+S41,L2,CG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S41,L2,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,does,did a loop-de-loop',MLD
+S41,L2,CG_A,Targ6,,,,n,n,y,from-part,y,to-pp,source-goal,goes,,MLD
+S41,L2,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,"doesn't use bookshelf and stove as landmarks, but mentions the stove as an endpoint",MLD
+S41,L2,CG_A,Targ8,,,said 'room' insted of 'moon',y,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S41,L2,CG_A,Targ9,,,,n,n,y,from-part,y,to-part,source-goal,slithers,,MLD
+S41,L2,CG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S41,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,towards-pp,source-goal,goes,,MLD
+S41,L2,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S41,L2,CG_A,Targ13,,,,n,n,y,from-part,y,to-part,source-goal,crawls,,MLD
+S41,L2,CG_A,Targ14,,,,n,n,y,from-part,y,to-part,source-goal,goes,,MLD
+S41,L2,CG_A,Targ15,,,,n,n,y,from-part,y,to-part,source-goal,bounces,,MLD
+S41,L2,CG_A,Targ16,,,,n,n,y,from-part,y,to-part,source-goal,goes,,MLD
+S41,L2,CG_A,Targ17,,,,n,n,y,from-part,y,to-part,source-goal,moves,,MLD
+S41,L2,CG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,does,did a 'c-motion',MLD
+S43,L2,NCG_A,Targ1,,,,n,n,y,from-pp,y,towards-pp,source-goal,jumps,has trouble naming 'tree stump',MLD
+S43,L2,NCG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,"is this source? I'm not sure, mentions 'through' which tells us something about the trajectory, but not necessarily where the horse started",MLD
+S43,L2,NCG_A,Targ3,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,"to, then says towards",MLD
+S43,L2,NCG_A,Targ4,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,,MLD
+S43,L2,NCG_A,Targ5,,,,n,n,n,,y,towards-pp,goal only,moves,,MLD
+S43,L2,NCG_A,Targ6,,,,n,n,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S43,L2,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S43,L2,NCG_A,Targ8,,,,n,n,y,from-pp,y,towards-pp,source-goal,flies,mentions instrument of flying as well,MLD
+S43,L2,NCG_A,Targ9,,,,n,n,n,,n,,none,moves,not described as change of location event,MLD
+S43,L2,NCG_A,Targ10,,,,y,n,y,from-pp,y,towards-pp,source-goal,moves,error in source naming - first calls it a light pole before correcting to electricity pole,MLD
+S43,L2,NCG_A,Targ11,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,,MLD
+S43,L2,NCG_A,Targ12,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,,MLD
+S43,L2,NCG_A,Targ13,,,,n,n,n,,y,over-part,goal only,crawls,,MLD
+S43,L2,NCG_A,Targ14,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,,MLD
+S43,L2,NCG_A,Targ15,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,,MLD
+S43,L2,NCG_A,Targ16,,,,n,n,n,,y,towards-pp,goal only,moves,"he seems to be getting more specific with the goal - first says generically 'off the roof of the house', but then specifies 'towards the ladder' as the way he moves off the roof",MLD
+S43,L2,NCG_A,Targ17,,,,n,n,n,,n,,none,throws,not sure this is a change of location event,MLD
+S43,L2,NCG_A,Targ18,,,,n,n,y,from-pp,y,towards-pp,source-goal,moves,"just says towards-pp at first, then adjusts to towards-part (towards under)",MLD
+S44,L1,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S44,L1,NCG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S44,L1,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,bounds,,MLD
+S44,L1,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S44,L1,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S44,L1,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S44,L1,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S44,L1,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S44,L1,NCG_A,Targ9,,,,n,n,n,,y,towards-pp,goal only,slithers,,MLD
+S44,L1,NCG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S44,L1,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S44,L1,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,swims,,MLD
+S44,L1,NCG_A,Targ13,,,,n,y,y,other-pp,y,towards-pp,source-goal,moves,"doesn't explicitly say move from crib, but sets up the crib as where the baby starts",MLD
+S44,L1,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S44,L1,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S44,L1,NCG_A,Targ16,,,,n,y,n,,n,,none,,not a change of location event; doesn't even mention agent movement,MLD
+S44,L1,NCG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S44,L1,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S45,L1,NCG_A,Targ1,,,,n,y,y,from-pp,y,to-pp,source-goal,jumps,also explicitly says 'starts on..',MLD
+S45,L1,NCG_A,Targ2,,,,n,y,y,at-pp,y,to-pp,source-goal,conjoined,"starts + runs; doesn't mention the fence, but mentions location on the screen",MLD
+S45,L1,NCG_A,Targ3,,,,n,y,y,other-pp,y,under-pp,source-goal,runs,,MLD
+S45,L1,NCG_A,Targ4,,,,n,y,y,on-pp,y,to-pp,source-goal,flies,"""back to"", sugesting a return event",MLD
+S45,L1,NCG_A,Targ5,,,,n,y,y,from-part,y,on-pp,source-goal,flies,,MLD
+S45,L1,NCG_A,Targ6,,,,n,y,y,other-pp,y,to-part,source-goal,flies,,MLD
+S45,L1,NCG_A,Targ7,,,,n,y,y,in-pp,y,to-pp,source-goal,walks,"describes room at first, then says explicitly 'from the oven to the bookshelf'",MLD
+S45,L1,NCG_A,Targ8,,,,n,y,y,from-part,y,to-pp,source-goal,flies,,MLD
+S45,L1,NCG_A,Targ9,,,,n,y,y,in-pp,y,to-pp,source-goal,slithers,,MLD
+S45,L1,NCG_A,Targ10,,,,n,y,y,of-part,y,of-part,source-goal,flies,,MLD
+S45,L1,NCG_A,Targ11,,,,n,y,y,at-pp,y,to-pp,source-goal,conjoined,flies + lands + stops,MLD
+S45,L1,NCG_A,Targ12,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S45,L1,NCG_A,Targ13,,,,n,y,y,at-pp,y,to-pp,source-goal,crawls,at' is the preposition,MLD
+S45,L1,NCG_A,Targ14,,,,n,y,y,of-part,y,to-pp,source-goal,drives,,MLD
+S45,L1,NCG_A,Targ15,,,,n,y,y,to-part,y,to-pp,source-goal,runs,,MLD
+S45,L1,NCG_A,Targ16,,,,n,y,y,at-pp,y,towards-pp,source-goal,walks,,MLD
+S45,L1,NCG_A,Targ17,,,,n,y,y,at-pp,y,towards-pp,source-goal,walks,,MLD
+S45,L1,NCG_A,Targ18,,,,n,y,y,at-pp,y,to-pp,source-goal,walks,,MLD
+S46,L3,NCG_A,Targ1,,,,y,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S46,L3,NCG_A,Targ2,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S46,L3,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S46,L3,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S46,L3,NCG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S46,L3,NCG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S46,L3,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S46,L3,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S46,L3,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S46,L3,NCG_A,Targ10,,,,y,n,y,from-pp,y,to-pp,source-goal,goes,says light pole instead of electrical pole,MLD
+S46,L3,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S46,L3,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S46,L3,NCG_A,Targ13,,,,n,y,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S46,L3,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S46,L3,NCG_A,Targ15,,,,n,y,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S46,L3,NCG_A,Targ16,,,,n,n,n,,y,other-pp,goal only,prances,not sure this is interpreted as a source-goal event,MLD
+S46,L3,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S46,L3,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S47,L2,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,jumps,,MLD
+S47,L2,CG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S47,L2,CG_A,Targ3,,,,n,n,n,,y,to-part,goal only,runs,,MLD
+S47,L2,CG_A,Targ4,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S47,L2,CG_A,Targ5,,,,n,n,n,,y,on-pp,goal only,ends up,,MLD
+S47,L2,CG_A,Targ6,,,,n,n,n,,y,at-pp,goal only,flies,,MLD
+S47,L2,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S47,L2,CG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S47,L2,CG_A,Targ9,,,,n,n,n,,y,to-part,goal only,slithers,,MLD
+S47,L2,CG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S47,L2,CG_A,Targ11,,,,y,n,y,from-pp,y,to-pp,source-goal,goes,"doesnêt know the name for the satellite, just says ""thing to the right""",MLD
+S47,L2,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,makes its way,,MLD
+S47,L2,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S47,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S47,L2,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hippity hops,,MLD
+S47,L2,CG_A,Targ16,,,,n,y,n,,y,to-part,goal only,traverses,,MLD
+S47,L2,CG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S47,L2,CG_A,Targ18,,,,n,n,y,from-part,y,under-pp,source-goal,makes its way,,MLD
+S48,L3,CG_A,Targ1,,,,n,n,n,,y,on-pp,goal only,jumps,,MLD
+S48,L3,CG_A,Targ2,,,,n,n,n,,y,towards-pp,goal only,runs,,MLD
+S48,L3,CG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S48,L3,CG_A,Targ4,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S48,L3,CG_A,Targ5,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S48,L3,CG_A,Targ6,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S48,L3,CG_A,Targ7,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S48,L3,CG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S48,L3,CG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,MLD
+S48,L3,CG_A,Targ10,,,,y,n,n,,y,to-pp,goal only,flies,said 'lightpost' instead of 'electricity pole',MLD
+S48,L3,CG_A,Targ11,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S48,L3,CG_A,Targ12,,,,n,n,n,,y,towards-pp,goal only,drove,,MLD
+S48,L3,CG_A,Targ13,,,,n,n,n,,y,towards-pp,goal only,crawls,"crawls back, suggestin a return event",MLD
+S48,L3,CG_A,Targ14,,,,n,n,n,,y,to-pp,goal only,drives,,MLD
+S48,L3,CG_A,Targ15,,,,n,n,n,,y,towards-pp,goal only, jumps,,MLD
+S48,L3,CG_A,Targ16,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S48,L3,CG_A,Targ17,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S48,L3,CG_A,Targ18,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S49,L1,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,leaps,,MLD
+S49,L1,NCG_A,Targ2,,,,n,y,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S49,L1,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S49,L1,NCG_A,Targ4,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S49,L1,NCG_A,Targ5,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S49,L1,NCG_A,Targ6,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S49,L1,NCG_A,Targ7,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S49,L1,NCG_A,Targ8,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S49,L1,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S49,L1,NCG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S49,L1,NCG_A,Targ11,,,,n,y,n,,y,to-pp,goal only,flies,,MLD
+S49,L1,NCG_A,Targ12,,,,y,n,y,from-pp,y,to-pp,source-goal,goes,"forgot the name for submarine at first, then remembered. But then forgot the word for shipwreck",MLD
+S49,L1,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S49,L1,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S49,L1,NCG_A,Targ15,,,,n,y,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S49,L1,NCG_A,Targ16,,,,n,n,y,up-pp,y,to-pp,source-goal,crawls,,MLD
+S49,L1,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,walks,also 'brings' event,MLD
+S49,L1,NCG_A,Targ18,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S50,L2,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S50,L2,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S50,L2,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S50,L2,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S50,L2,NCG_A,Targ5,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S50,L2,NCG_A,Targ6,,,,n,n,y,from-pp,y,into-pp,source-goal,flies,,MLD
+S50,L2,NCG_A,Targ7,,,,n,y,y,from-pp,y,to-pp,source-goal,conjoined,walks + leaves + stands,MLD
+S50,L2,NCG_A,Targ8,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S50,L2,NCG_A,Targ9,,,,n,y,y,from-pp,n,,source only,slides,,MLD
+S50,L2,NCG_A,Targ10,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S50,L2,NCG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S50,L2,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S50,L2,NCG_A,Targ13,,,,n,y,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S50,L2,NCG_A,Targ14,,,,n,y,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S50,L2,NCG_A,Targ15,,,,n,n,y,from-pp,y,towards-part,source-goal,hops,,MLD
+S50,L2,NCG_A,Targ16,,,,n,n,y,from-pp,y,towards-part,goal-source,creaps,,MLD
+S50,L2,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S50,L2,NCG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,moves,,MLD
+S51,L3,NCG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S51,L3,NCG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,gallops,,MLD
+S51,L3,NCG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S51,L3,NCG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S51,L3,NCG_A,Targ5,,,,n,y,n,,y,towards-pp,goal only,conjoined,flies + lands,MLD
+S51,L3,NCG_A,Targ6,,,,n,n,y,from-part,y,to-pp,source-goal,glies,,MLD
+S51,L3,NCG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S51,L3,NCG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S51,L3,NCG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,slithers,,MLD
+S51,L3,NCG_A,Targ10,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,"forgets the name for electrical pole, describes it instead",MLD
+S51,L3,NCG_A,Targ11,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,"doesn't know the name for the space station, describes it instead",MLD
+S51,L3,NCG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S51,L3,NCG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S51,L3,NCG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S51,L3,NCG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S51,L3,NCG_A,Targ16,,,,n,y,y,from-pp,y,to-pp,source-goal,climbs,,MLD
+S51,L3,NCG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,brings,,MLD
+S51,L3,NCG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,moves,,MLD
+S52,L1,CG_A,Targ1,,,,n,n,y,from-pp,y,to-part,source-goal,jumps,,MLD
+S52,L1,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,trots,,MLD
+S52,L1,CG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S52,L1,CG_A,Targ4,,,,n,n,n,,y,towards-part,goal only,flies,,MLD
+S52,L1,CG_A,Targ5,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S52,L1,CG_A,Targ6,,,,n,n,n,,y,towards-part,goal only,flies,,MLD
+S52,L1,CG_A,Targ7,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S52,L1,CG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S52,L1,CG_A,Targ9,,,,n,n,n,,y,to-part,goal only,slithers,,MLD
+S52,L1,CG_A,Targ10,,,,y,n,y,from-pp,y,to-part,source-goal,flies,says light post instead of electrical pole,MLD
+S52,L1,CG_A,Targ11,,,,n,n,y,off-pp,y,towards-pp,source-goal,flies,,MLD
+S52,L1,CG_A,Targ12,,,,n,n,n,,y,towards-pp,goal only,moves,,MLD
+S52,L1,CG_A,Targ13,,,,n,n,n,,y,to-part,goal only,crawls,,MLD
+S52,L1,CG_A,Targ14,,,,n,n,y,from-pp,y,to-part,source-goal,drives,,MLD
+S52,L1,CG_A,Targ15,,,,n,n,n,,y,to-part,goal only,hops,,MLD
+S52,L1,CG_A,Targ16,,,,n,n,n,,y,to-part,goal only,tip-toes,,MLD
+S52,L1,CG_A,Targ17,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S52,L1,CG_A,Targ18,,,,n,n,y,from-pp,y,towards-part,source-goal,moves,,MLD
+S53,L2,CG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,jumps,,MLD
+S53,L2,CG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S53,L2,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S53,L2,CG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S53,L2,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S53,L2,CG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S53,L2,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S53,L2,CG_A,Targ8,,,,n,n,y,from-part,y,to-pp,source-goal,flies,,MLD
+S53,L2,CG_A,Targ9,,,,n,n,y,from-pp,y,to-part,source-goal,slithers,,MLD
+S53,L2,CG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S53,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,on-pp,source-goal,conjoined,moves + lands,MLD
+S53,L2,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S53,L2,CG_A,Targ13,,,,n,n,y,from-pp,y,to-pp,source-goal,crawls,,MLD
+S53,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S53,L2,CG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S53,L2,CG_A,Targ16,,,,n,n,y,from-pp,y,towards-pp,source-goal,creaps,,MLD
+S53,L2,CG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,carries,,MLD
+S53,L2,CG_A,Targ18,,,,n,n,y,from-part,y,under-pp,source-goal,crawls,,MLD
+S54,L3,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,leaps,,MLD
+S54,L3,CG_A,Targ2,,,,n,n,n,,n,,none,gallops,does not interpret this as a change of location event,MLD
+S54,L3,CG_A,Targ3,,,,n,n,n,,n,,none,runs,"says 'away', suggesting from a source perspective, but doesnêt really interpret this as a change of location thing",MLD
+S54,L3,CG_A,Targ4,,,,n,n,n,,y,towards-pp,goal only,flies,mentions 'back' suggesting return event,MLD
+S54,L3,CG_A,Targ5,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S54,L3,CG_A,Targ6,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S54,L3,CG_A,Targ7,,,,n,n,n,,y,towards-pp,goal only,walks,,MLD
+S54,L3,CG_A,Targ8,,,,n,n,y,from-part,n,,source only,flies,,MLD
+S54,L3,CG_A,Targ9,,,,n,n,n,,y,towards-pp,goal only,wriggles,,MLD
+S54,L3,CG_A,Targ10,,,,n,n,n,,y,onto-pp,goal only,flies,,MLD
+S54,L3,CG_A,Targ11,,,,n,n,y,from-part,n,,source only,flies,,MLD
+S54,L3,CG_A,Targ12,,,,n,n,n,,y,towards-pp,goal only,heads,,MLD
+S54,L3,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S54,L3,CG_A,Targ14,,,,n,n,y,from-part,n,,source only,drives,,MLD
+S54,L3,CG_A,Targ15,,,,n,n,n,,y,towards-pp,goal only,runs,,MLD
+S54,L3,CG_A,Targ16,,,,n,n,y,from-pp,y,other-pp,goal-source,sneaks,onto,MLD
+S54,L3,CG_A,Targ17,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S54,L3,CG_A,Targ18,,,,n,n,n,,y,under-pp,goal only,crawls,,MLD
+S55,L1,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,jumps,,MLD
+S55,L1,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S55,L1,CG_A,Targ3,,,,n,n,n,,n,,none,runs,doesn't interpret this as a change of location between two endpoints,MLD
+S55,L1,CG_A,Targ4,,,,y,n,n,,y,to-pp,goal only,flies,forgot the word for 'hive' then remembered,MLD
+S55,L1,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S55,L1,CG_A,Targ6,,,,n,n,n,,y,towards-pp,goal only,flies,,MLD
+S55,L1,CG_A,Targ7,,,,n,n,y,out-part,n,,source only,walks,,MLD
+S55,L1,CG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S55,L1,CG_A,Targ9,,,,n,n,n,,y,towards-pp,goal only,slithers,,MLD
+S55,L1,CG_A,Targ10,,,,y,n,n,,y,onto-pp,goal only,flies,says 'light post' instead of 'electrical pole',MLD
+S55,L1,CG_A,Targ11,,,,n,n,n,,y,on-pp,goal only,lands,,MLD
+S55,L1,CG_A,Targ12,,,,n,n,n,,y,towards-pp,goal only,moves,,MLD
+S55,L1,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S55,L1,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S55,L1,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,goes,,MLD
+S55,L1,CG_A,Targ16,,,,n,n,n,,y,towards-pp,goal only,creeps,,MLD
+S55,L1,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,takes,,MLD
+S55,L1,CG_A,Targ18,,,,n,n,n,,y,towards-pp,goal only,moves,,MLD
+S56,L2,NCG_A,Targ1,,,,n,n,y,from-pp,y,onto-pp,source-goal,jumps,,MLD
+S56,L2,NCG_A,Targ2,,,,n,y,y,from-pp,y,to-pp,source-goal,moves,,MLD
+S56,L2,NCG_A,Targ3,,,,n,y,y,from-part,y,towards-pp,source-goal,conjoined,jumps + bounds,MLD
+S56,L2,NCG_A,Targ4,,,,n,y,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S56,L2,NCG_A,Targ5,,,,n,y,y,from-part,y,towards-pp,source-goal,flies,,MLD
+S56,L2,NCG_A,Targ6,,,,n,y,y,from-pp,y,to-part,source-goal,flies,,MLD
+S56,L2,NCG_A,Targ7,,,,n,y,n,,y,other,source-goal,stands,"this is weird - she doesn't really mention the motion, just implies that there was motion",MLD
+S56,L2,NCG_A,Targ8,,,,n,y,y,from-pp,y,towards-pp,source-goal,flies,,MLD
+S56,L2,NCG_A,Targ9,,,,n,y,n,,n,,none,slithers,"doesn't interpret this as a change of location event, doesn't describe any movement",MLD
+S56,L2,NCG_A,Targ10,,,,n,y,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S56,L2,NCG_A,Targ11,,,,y,y,y,from-pp,y,towards-pp,source-goal,flies,doesn't know the name of the space station,MLD
+S56,L2,NCG_A,Targ12,,,,n,y,y,from-pp,y,to-part,source-goal,flies,,MLD
+S56,L2,NCG_A,Targ13,,,,n,y,y,from-pp,y,towards-part,source-goal,crawls,,MLD
+S56,L2,NCG_A,Targ14,,,,n,y,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S56,L2,NCG_A,Targ15,,,,n,y,y,from-part,y,towards-pp,source-goal,bounces,,MLD
+S56,L2,NCG_A,Targ16,,,,n,y,y,from-pp,y,towards-pp,source-goal,scuttles,,MLD
+S56,L2,NCG_A,Targ17,,,,n,y,y,from-pp,y,to-pp,goal-source,moves,"first describes goal, ""taking it toÛ"" but then utters complete phrase with source + goal",MLD
+S56,L2,NCG_A,Targ18,,,,n,y,y,from-pp,y,towards-pp,source-goal,scuttles,,MLD
+S57,L3,NCG_A,Targ1,,,,n,n,n,,y,to-pp,goal only,leaps,,MLD
+S57,L3,NCG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S57,L3,NCG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S57,L3,NCG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S57,L3,NCG_A,Targ5,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S57,L3,NCG_A,Targ6,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S57,L3,NCG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S57,L3,NCG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,"first says above the moon, then says to",MLD
+S57,L3,NCG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,MLD
+S57,L3,NCG_A,Targ10,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S57,L3,NCG_A,Targ11,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S57,L3,NCG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,floats,,MLD
+S57,L3,NCG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S57,L3,NCG_A,Targ14,,,,n,n,n,,y,to-pp,goal only,drives,,MLD
+S57,L3,NCG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,leaps,,MLD
+S57,L3,NCG_A,Targ16,,,,n,n,n,,n,,none,goes,describes a different event than is depicted in the video,MLD
+S57,L3,NCG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,takes,,MLD
+S57,L3,NCG_A,Targ18,,,,n,n,n,,y,to-pp,goal only,goes,,MLD
+S58,L1,CG_A,Targ1,,,,n,n,y,from-pp,y,to-pp,source-goal,leaps,,MLD
+S58,L1,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S58,L1,CG_A,Targ3,,,,n,n,n,,n,,none,runs,does not interpret as motion between two points,MLD
+S58,L1,CG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S58,L1,CG_A,Targ5,,,,n,n,y,off-pp,y,on-pp,source-goal,flies,,MLD
+S58,L1,CG_A,Targ6,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S58,L1,CG_A,Targ7,,,,n,n,n,,n,,none,walks,doesn't describe movement between two points,MLD
+S58,L1,CG_A,Targ8,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S58,L1,CG_A,Targ9,,,,n,n,n,,n,,none,slithers,does not interpret as motion between two points,MLD
+S58,L1,CG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S58,L1,CG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,moves,did not know name for space station,MLD
+S58,L1,CG_A,Targ12,,,,y,n,y,from-pp,y,to-pp,source-goal,moves,forgot the name for submarine,MLD
+S58,L1,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S58,L1,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,drives,,MLD
+S58,L1,CG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S58,L1,CG_A,Targ16,,,,n,n,y,from-pp,n,,source only,walks,does not interpret ladder as end point,MLD
+S58,L1,CG_A,Targ17,,,,n,n,n,,y,to-part,goal only,walks,,MLD
+S58,L1,CG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,moves,,MLD
+S59,L2,CG_A,Targ1,,,,y,n,y,from-pp,y,to-pp,source-goal,jumps,"calls 'stump' tree bark, and not sure of name for lilypad",MLD
+S59,L2,CG_A,Targ2,,,,n,n,y,from-pp,y,to-pp,source-goal,runs,,MLD
+S59,L2,CG_A,Targ3,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S59,L2,CG_A,Targ4,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S59,L2,CG_A,Targ5,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S59,L2,CG_A,Targ6,,,,y,n,y,from-pp,y,to-pp,source-goal,flies,says 'princess' instead of fairy,MLD
+S59,L2,CG_A,Targ7,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S59,L2,CG_A,Targ8,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S59,L2,CG_A,Targ9,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S59,L2,CG_A,Targ10,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S59,L2,CG_A,Targ11,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S59,L2,CG_A,Targ12,,,,n,n,y,from-pp,y,to-pp,source-goal,flies,,MLD
+S59,L2,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S59,L2,CG_A,Targ14,,,,n,n,y,from-pp,y,to-pp,source-goal,goes,,MLD
+S59,L2,CG_A,Targ15,,,,n,n,y,from-pp,y,to-pp,source-goal,hops,,MLD
+S59,L2,CG_A,Targ16,,,,n,n,n,,y,to-part,goal only,runs,,MLD
+S59,L2,CG_A,Targ17,,,,n,n,y,from-pp,y,to-pp,source-goal,walks,,MLD
+S59,L2,CG_A,Targ18,,,,n,n,y,from-part,y,to-part,source-goal,goes,,MLD
+S60,L3,CG_A,Targ1,,,,n,n,n,,y,onto-pp,goal only,leaps,,MLD
+S60,L3,CG_A,Targ2,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S60,L3,CG_A,Targ3,,,,n,n,n,,y,to-pp,goal only,runs,,MLD
+S60,L3,CG_A,Targ4,,,,n,n,n,,y,to-pp,goal only,flies,,MLD
+S60,L3,CG_A,Targ5,,,,n,n,n,,y,on-pp,goal only,conjoined,flies + lands,MLD
+S60,L3,CG_A,Targ6,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S60,L3,CG_A,Targ7,,,,n,n,n,,y,to-pp,goal only,walks,,MLD
+S60,L3,CG_A,Targ8,,,,n,n,n,,y,to-part,goal only,flies,,MLD
+S60,L3,CG_A,Targ9,,,,n,n,n,,y,to-pp,goal only,slithers,,MLD
+S60,L3,CG_A,Targ10,,,,n,n,n,,y,on-pp,goal only,conjoined,flies + sets,MLD
+S60,L3,CG_A,Targ11,,,,y,n,n,,y,on-pp,goal only,conjoined,flies + lands; calls the station a moon rover,MLD
+S60,L3,CG_A,Targ12,,,,n,n,n,,y,to-pp,goal only,floats,,MLD
+S60,L3,CG_A,Targ13,,,,n,n,n,,y,to-pp,goal only,crawls,,MLD
+S60,L3,CG_A,Targ14,,,,n,n,n,,n,,none,drives,"doesn't explicitly say that the house is an endpoint, just references it",MLD
+S60,L3,CG_A,Targ15,,,,n,n,n,,y,to-pp,goal only,hops,,MLD
+S60,L3,CG_A,Targ16,,,,n,n,n,,n,,none,walks,doesn't interpret this as a change of location between two points,MLD
+S60,L3,CG_A,Targ17,,,,n,n,n,,y,to-pp,goal only,goes,,MLD
+S60,L3,CG_A,Targ18,,,,n,n,n,,y,under-pp,goal only,scurries,,MLD

@@ -1,0 +1,1009 @@
+SubjID,ListNumb,ConditionID,TargID,Naming Error (Y/N),Scene Setting (Y/N),Source Mention (Y/N),SourceMenType,Goal Mention (Y/N,GoalMenType,Mention Order,Manner of Motion,Coding Notes,Coder Initials
+S1R,L1,CG,Targ13,y,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S1R,L1,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S1R,L1,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,carries,,MLD
+S1R,L1,CG,Targ7,y,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S1R,L1,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,inserted the goal as RC for motion path,MLD
+S1R,L1,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,prances,"forgot to mention source, and then went back to include source",MLD
+S1R,L1,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S1R,L1,CG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S1R,L1,CG,Targ12,y,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S1R,L1,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S1R,L1,CG,Targ18,n,n,y,from-part,y,to-pp,Source-Goal,moves,,MLD
+S1R,L1,CG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,conjoined,flies + lands,MLD
+S1R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S1R,L1,CG,Targ16,n,n,y,from-pp,y,to-part,Source-Goal,goes,,MLD
+S1R,L1,CG,Targ1,y,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S1R,L1,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S1R,L1,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S1R,L1,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S3R,L3,CG,Targ13,n,n,n,,y,to-part,Goal Only,crawls,,MLD
+S3R,L3,CG,Targ2,n,n,n,,y,to-part,Goal Only,gallops,,MLD
+S3R,L3,CG,Targ17,n,n,n,,y,to-part,Goal Only,carries,,MLD
+S3R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S3R,L3,CG,Targ5,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S3R,L3,CG,Targ15,n,n,n,,y,to-pp,Goal Only,hops,,MLD
+S3R,L3,CG,Targ6,n,n,y,from-part,n,,Source Only,flies,,MLD
+S3R,L3,CG,Targ4,n,n,n,,y,to-part,Goal Only,flies,,MLD
+S3R,L3,CG,Targ12,n,n,n,,y,v-np,Goal Only,explores,explored the shipwreck,MLD
+S3R,L3,CG,Targ8,n,n,y,from-part,n,,Source Only,flies,,MLD
+S3R,L3,CG,Targ18,n,n,n,,y,under-pp,Goal Only,scurries,,MLD
+S3R,L3,CG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,takes off + lands,MLD
+S3R,L3,CG,Targ14,n,n,n,,y,v-np,Goal Only,drives,drove home,MLD
+S3R,L3,CG,Targ16,n,n,n,,y,to-part,Goal Only,tiptoes,,MLD
+S3R,L3,CG,Targ1,n,n,n,,y,onto-pp,Goal Only,leaps,,MLD
+S3R,L3,CG,Targ9,n,n,n,,y,to-pp,Goal Only,slithers,,MLD
+S3R,L3,CG,Targ3,n,n,n,,y,to-part,Goal Only,runs,,MLD
+S3R,L3,CG,Targ10,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S5R,L2,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S5R,L2,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S5R,L2,CG,Targ17,n,n,n,,y,to-pp,Goal Only,takes,doesn't treat this as a motion event between two objects: treats this as a carrying/throwing event,MLD
+S5R,L2,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S5R,L2,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S5R,L2,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S5R,L2,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S5R,L2,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S5R,L2,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,travels,,MLD
+S5R,L2,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,"gets the source/goal mixed up at first, and then corrects",MLD
+S5R,L2,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S5R,L2,CG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S5R,L2,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S5R,L2,CG,Targ16,n,n,n,,y,to-pp,Source-Goal,tiptoes,,MLD
+S5R,L2,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S5R,L2,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S5R,L2,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S5R,L2,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S6R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S6R,L3,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S6R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S6R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S6R,L3,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,floats,,MLD
+S6R,L3,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S6R,L3,CG,Targ6,n,n,y,from-part,y,other-pp,Source-Goal,conjoined,other-pp = next to; comes + stops,MLD
+S6R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S6R,L3,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,swims,,MLD
+S6R,L3,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S6R,L3,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S6R,L3,CG,Targ11,n,n,y,other-part,y,to-pp,Source-Goal,conjoined,"comes + flies; other-part = ""out of""",MLD
+S6R,L3,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S6R,L3,CG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,goes,"says goes first, then specifies tip-toes",MLD
+S6R,L3,CG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,leaps,,MLD
+S6R,L3,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S6R,L3,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S6R,L3,CG,Targ10,y,n,y,from-part,y,to-pp,Source-Goal,flies,,MLD
+S7R,L1,CG,Targ13,n,y,y,from-part,y,to-pp,Source-Goal,crawls,,MLD
+S7R,L1,CG,Targ2,n,n,y,from-part,y,to-part,Source-Goal,gallops,,MLD
+S7R,L1,CG,Targ17,n,n,n,,y,to-part,Source-Goal,walks,,MLD
+S7R,L1,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S7R,L1,CG,Targ5,n,n,y,from-part,y,onto-pp,Source-Goal,flies,,MLD
+S7R,L1,CG,Targ15,n,n,y,from-pp,y,towards-pp,Source-Goal,hops,,MLD
+S7R,L1,CG,Targ6,n,n,y,from-part,y,towards-part,Source-Goal,floats,,MLD
+S7R,L1,CG,Targ4,y,n,y,from-pp,y,towards-pp,Source-Goal,floats,,MLD
+S7R,L1,CG,Targ12,n,n,y,from-part,y,towards-pp,Source-Goal,drives,,MLD
+S7R,L1,CG,Targ8,n,n,y,from-pp,y,towards-pp,Source-Goal,flies,,MLD
+S7R,L1,CG,Targ18,n,n,y,from-part,y,towards-pp,Source-Goal,crawls,,MLD
+S7R,L1,CG,Targ11,n,n,y,v-np,y,v-np,Source-Goal,conjoined,leaves + lands,MLD
+S7R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S7R,L1,CG,Targ16,n,n,y,v-np,y,towards-pp,Source-Goal,conjoined,leaves + hops,MLD
+S7R,L1,CG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,jumps,,MLD
+S7R,L1,CG,Targ9,n,n,y,from-pp,y,towards-pp,Source-Goal,slithers,,MLD
+S7R,L1,CG,Targ3,n,n,y,from-pp,y,towards-pp,Source-Goal,gallops,,MLD
+S7R,L1,CG,Targ10,n,n,y,from-part,y,towards-pp,Source-Goal,flies,,MLD
+S8R,L2,NCG,Targ13,n,y,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S8R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S8R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,carries,,MLD
+S8R,L2,NCG,Targ7,n,n,y,from-part,y,to-pp,Source-Goal,walks,,MLD
+S8R,L2,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S8R,L2,NCG,Targ15,n,n,y,from-part,y,to-pp,Source-Goal,hops,,MLD
+S8R,L2,NCG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S8R,L2,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S8R,L2,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S8R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S8R,L2,NCG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,crawls,,MLD
+S8R,L2,NCG,Targ11,n,n,n,,y,v-np,Goal Only,lands,,MLD
+S8R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S8R,L2,NCG,Targ16,n,n,n,,y,v-np,Goal Only,conjoined,climbs + reaches,MLD
+S8R,L2,NCG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,hops,,MLD
+S8R,L2,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S8R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S8R,L2,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S9R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S9R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S9R,L3,NCG,Targ17,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ5,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S9R,L3,NCG,Targ15,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S9R,L3,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S9R,L3,NCG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,moves,"originally just says to, then further specifies 'under'",MLD
+S9R,L3,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S9R,L3,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S9R,L3,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S9R,L3,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S9R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S9R,L3,NCG,Targ10,y,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S10R,L1,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,mentions outside of the crib,MLD
+S10R,L1,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S10R,L1,NCG,Targ17,n,n,y,from-pp,y,towards-pp,Source-Goal,walks,,MLD
+S10R,L1,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S10R,L1,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S10R,L1,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S10R,L1,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S10R,L1,NCG,Targ4,y,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S10R,L1,NCG,Targ12,y,n,y,from-pp,y,into-pp,Source-Goal,moves,,MLD
+S10R,L1,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S10R,L1,NCG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S10R,L1,NCG,Targ11,y,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S10R,L1,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S10R,L1,NCG,Targ16,n,n,y,other,y,into-pp,Source-Goal,conjoined,climbs + goes,MLD
+S10R,L1,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S10R,L1,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S10R,L1,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S10R,L1,NCG,Targ10,y,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S11R,L2,CG,Targ13,n,n,n,,y,to-pp,Goal Only,crawls,,MLD
+S11R,L2,CG,Targ2,n,n,n,,y,to-pp,Goal Only,gallops,,MLD
+S11R,L2,CG,Targ17,n,n,n,,y,to-pp,Goal Only,walks,,MLD
+S11R,L2,CG,Targ7,n,n,n,,y,into-pp,Goal Only,walks,,MLD
+S11R,L2,CG,Targ5,n,n,n,,y,to-pp,Goal Only,circles,,MLD
+S11R,L2,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S11R,L2,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S11R,L2,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S11R,L2,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S11R,L2,CG,Targ8,n,n,n,,y,to-part,Goal Only,flies,,MLD
+S11R,L2,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S11R,L2,CG,Targ11,n,n,n,,y,on-pp,Goal Only,lands,,MLD
+S11R,L2,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S11R,L2,CG,Targ16,n,n,n,,n,,none,jumps,doesn't treat this as motion event between two objects,MLD
+S11R,L2,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S11R,L2,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S11R,L2,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S11R,L2,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S12R,L2,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S12R,L2,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S12R,L2,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S12R,L2,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,moves,uses left and right rather than reference objects,MLD
+S12R,L2,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S12R,L2,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S12R,L2,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S12R,L2,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S12R,L2,CG,Targ12,n,n,y,other-pp,y,to-pp,Goal-Source,conjoined,does + starts (a second clause/sentence describing where the sub started from); other-pp = by,MLD
+S12R,L2,CG,Targ8,y,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S12R,L2,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S12R,L2,CG,Targ11,y,n,y,on-pp,y,on-pp,Source-Goal,conjoined,starts + ends up,MLD
+S12R,L2,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,goes,uses left and right rather than reference objects,MLD
+S12R,L2,CG,Targ16,n,n,y,from-part,y,on-pp,Source-Goal,walks,,MLD
+S12R,L2,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S12R,L2,CG,Targ9,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S12R,L2,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,goes,"mentions ""where you say it"" as the reference location; also mentions galloping",MLD
+S12R,L2,CG,Targ10,y,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S13R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S13R,L3,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S13R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S13R,L3,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S13R,L3,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S13R,L3,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ4,y,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ18,n,n,y,from-pp,y,to-part,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ11,n,n,y,on-pp,y,to-pp,Source-Goal,conjoined,gets larger + moves + shrinks down,MLD
+S13R,L3,CG,Targ14,n,n,y,from-pp,y,to-part,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ16,n,n,y,from-pp,y,to-part,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ1,n,n,y,from-pp,y,to-part,Source-Goal,jumps,,MLD
+S13R,L3,CG,Targ9,n,n,y,from-pp,y,to-part,Source-Goal,moves,,MLD
+S13R,L3,CG,Targ3,n,n,y,from-pp,y,to-part,Source-Goal,runs,,MLD
+S13R,L3,CG,Targ10,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S14R,L1,NCG,Targ13,n,y,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S14R,L1,NCG,Targ2,n,y,y,from-pp,y,to-pp,Source-Goal,runs,also mentions trots,MLD
+S14R,L1,NCG,Targ17,n,y,n,,y,in-pp,Goal Only,carries,doesn't treat this as motion event between two objects,MLD
+S14R,L1,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S14R,L1,NCG,Targ5,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S14R,L1,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S14R,L1,NCG,Targ6,n,y,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S14R,L1,NCG,Targ4,n,y,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S14R,L1,NCG,Targ12,n,y,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S14R,L1,NCG,Targ8,n,y,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S14R,L1,NCG,Targ18,n,y,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S14R,L1,NCG,Targ11,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S14R,L1,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S14R,L1,NCG,Targ16,n,y,y,from-pp,y,to-pp,Source-Goal,tiptoes,"doesn't mention the ladder/source object. Says ""from one side of the roof"" to set up a different landmark. But mentions goal landmark explicitly",MLD
+S14R,L1,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S14R,L1,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S14R,L1,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S14R,L1,NCG,Targ10,y,n,y,from-pp,y,to-pp,Source-Goal,flies,has trouble naming telephone pole,MLD
+S15R,L2,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S15R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S15R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,"mentions intent - ""to presumably throw out food""",MLD
+S15R,L2,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S15R,L2,NCG,Targ5,n,n,n,,y,to-pp,Source-Goal,flies,,MLD
+S15R,L2,NCG,Targ15,y,n,y,from-pp,y,to-pp,Source-Goal,hops,"has trouble naming ""well""",MLD
+S15R,L2,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S15R,L2,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S15R,L2,NCG,Targ12,n,n,n,,n,,none,moves,doesn't treat this as motion event between two objects,MLD
+S15R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S15R,L2,NCG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,moves,,MLD
+S15R,L2,NCG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands,MLD
+S15R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S15R,L2,NCG,Targ16,n,n,n,,n,,none,walks,doesn't treat this as motion event between two objects,MLD
+S15R,L2,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S15R,L2,NCG,Targ9,n,n,n,,n,,none,moves,doesn't treat this as motion event between two objects,MLD
+S15R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S15R,L2,NCG,Targ10,n,n,y,from-pp,y,other,Source-Goal,conjoined,flies + lands,MLD
+S16R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S16R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S16R,L3,NCG,Targ17,n,y,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S16R,L3,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S16R,L3,NCG,Targ5,n,y,y,other,y,other,Source-Goal,flies,"mentions both landmarks, but doesn’t actually say which one is with. Says flying around the lamppost, and describes chair, but doesn't actually says the relationship between butterly and chair",MLD
+S16R,L3,NCG,Targ15,n,y,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S16R,L3,NCG,Targ6,n,y,y,from-part,y,to-pp,Source-Goal,flies,,MLD
+S16R,L3,NCG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S16R,L3,NCG,Targ12,n,y,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S16R,L3,NCG,Targ8,n,y,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S16R,L3,NCG,Targ18,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S16R,L3,NCG,Targ11,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S16R,L3,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S16R,L3,NCG,Targ16,n,y,y,from-pp,y,to-pp,Source-Goal,creeps,,MLD
+S16R,L3,NCG,Targ1,n,y,y,from-pp,y,to-part,Source-Goal,jumps,,MLD
+S16R,L3,NCG,Targ9,n,y,y,from-pp,y,to-pp,Source-Goal,travels,"sets up the landmarks, but says from the left to the right",MLD
+S16R,L3,NCG,Targ3,n,y,y,from-pp,y,to-pp,Source-Goal,jumps,"sets up the landmarks, but says from the left to the right",MLD
+S16R,L3,NCG,Targ10,n,y,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S17R,L1,CG,Targ13,n,n,n,,n,,none,crawls,doesn't treat this as motion event between two objects,MLD
+S17R,L1,CG,Targ2,n,n,n,,y,to-pp,Goal Only,gallops,,MLD
+S17R,L1,CG,Targ17,n,n,n,,n,,none,throws away,doesn't treat this as a motion event between two objects: treats this as a carrying/throwing event,MLD
+S17R,L1,CG,Targ7,n,n,y,v-np,y,to-pp,Source-Goal,leaves,,MLD
+S17R,L1,CG,Targ5,n,n,n,,n,,none,flies,doesn't treat this as motion event between two objects,MLD
+S17R,L1,CG,Targ15,n,n,n,,y,towards-pp,Goal Only,walks,,MLD
+S17R,L1,CG,Targ6,n,n,n,,n,,none,flies,doesn't treat this as motion event between two objects,MLD
+S17R,L1,CG,Targ4,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S17R,L1,CG,Targ12,n,n,n,,n,,none,is,doesn't treat this as motion event,MLD
+S17R,L1,CG,Targ8,n,n,n,,n,,none,flies,doesn't treat this as motion event between two objects,MLD
+S17R,L1,CG,Targ18,n,n,n,,y,to-pp,Goal Only,scurries,,MLD
+S17R,L1,CG,Targ11,n,n,n,,y,on-pp,Goal Only,lands,,MLD
+S17R,L1,CG,Targ14,n,n,n,,y,to-pp,Goal Only,drives,,MLD
+S17R,L1,CG,Targ16,n,n,n,,y,into-pp,Goal Only,sneaks,,MLD
+S17R,L1,CG,Targ1,n,n,y,other-pp,n,,Source Only,leaps,"other-pp = ""off""",MLD
+S17R,L1,CG,Targ9,n,n,n,,n,,none,slithers,doesn't treat this as motion event between two objects,MLD
+S17R,L1,CG,Targ3,n,n,n,,n,,none,runs,doesn't treat this as motion event between two objects,MLD
+S17R,L1,CG,Targ10,n,n,n,,y,onto-pp,Goal Only,flies,,MLD
+S18R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S18R,L3,CG,Targ2,n,n,y,at-pp,y,to-part,Source-Goal,conjoined,starts + makes its way over,MLD
+S18R,L3,CG,Targ17,n,n,y,from-pp,y,to-part,Source-Goal,walks,,MLD
+S18R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S18R,L3,CG,Targ5,n,n,y,on-pp,y,on-pp,Source-Goal,conjoined,starts + does loop + ends up,MLD
+S18R,L3,CG,Targ15,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,starts + does hop + ends up; other-pp = at for both source and goal,MLD
+S18R,L3,CG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,moves,,MLD
+S18R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Goal-Source,floats,asks if experimenter has image on screen as well,MLD
+S18R,L3,CG,Targ12,n,n,y,from-pp,y,to-part,Source-Goal,does + path,does zig zag,MLD
+S18R,L3,CG,Targ8,n,n,y,from-part,y,to-part,Source-Goal,rides,,MLD
+S18R,L3,CG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,moves,,MLD
+S18R,L3,CG,Targ11,n,n,y,on-pp,y,towards-pp,Source-Goal,conjoined,starts + grows + goes + shrinks,MLD
+S18R,L3,CG,Targ14,n,n,y,on-pp,y,towards-part,Source-Goal,conjoined,starts + goes,MLD
+S18R,L3,CG,Targ16,n,n,y,at-pp,y,to-part,Source-Goal,conjoined,starts + tip toes,MLD
+S18R,L3,CG,Targ1,n,n,y,from-pp,y,towards-pp,Source-Goal,conjoined,starts + jumps,MLD
+S18R,L3,CG,Targ9,n,n,y,other-pp,y,towards-part,Source-Goal,conjoined,starts + moves; other-pp = by,MLD
+S18R,L3,CG,Targ3,n,n,y,under-pp,y,other-pp,Source-Goal,conjoined,starts + does gallops + ends up; other-pp = at,MLD
+S18R,L3,CG,Targ10,n,n,y,on-pp,y,to-pp,Source-Goal,conjoined,starts + floats,MLD
+S19R,L1,NCG,Targ13,n,y,y,nexto to-pp,y,to-part,Source-Goal,crawls,"seems to set things up, including the source, but doesn't explicitly say that the baby came from the source",MLD
+S19R,L1,NCG,Targ2,y,n,y,from-pp,y,to-pp,Source-Goal,runs,has trouble naming barn (goal),MLD
+S19R,L1,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S19R,L1,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S19R,L1,NCG,Targ5,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S19R,L1,NCG,Targ15,n,y,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S19R,L1,NCG,Targ6,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S19R,L1,NCG,Targ4,y,y,y,from-pp,y,to-pp,Source-Goal,flies,"has trouble naming ""beehive"" (goal)",MLD
+S19R,L1,NCG,Targ12,n,y,y,from-pp,y,to-pp,Source-Goal,goes,sets the scene up just for the goal; mentions the source and then mentions the goal again,MLD
+S19R,L1,NCG,Targ8,n,y,y,from-pp,y,to-pp,Source-Goal,flies,sets the scene up just for the goal; mentions the source and then mentions the goal again,MLD
+S19R,L1,NCG,Targ18,n,y,y,from-pp,y,to-pp,Source-Goal,goes,sets the scene up just for the goal; mentions the source and then mentions the goal again,MLD
+S19R,L1,NCG,Targ11,y,y,y,from-pp,y,to-pp,Source-Goal,goes,"has trouble naming ""satellite"" (source)",MLD
+S19R,L1,NCG,Targ14,n,y,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S19R,L1,NCG,Targ16,n,y,n,,n,,none,walks,"sets the scene up and mentions both source and goal, but doesn't mention them as part of any motion event",MLD
+S19R,L1,NCG,Targ1,n,y,y,from-pp,y,to-pp,Source-Goal,jumps,"sets scene for source only, but mentions both source and goal",MLD
+S19R,L1,NCG,Targ9,n,y,n,,n,,none,goes,doesn't treat this as motion event between two objects,MLD
+S19R,L1,NCG,Targ3,n,y,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S19R,L1,NCG,Targ10,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S20R,L2,NCG,Targ13,n,n,y,from-pp,y,to-part,Source-Goal,crawls,,MLD
+S20R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S20R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S20R,L2,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S20R,L2,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S20R,L2,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S20R,L2,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S20R,L2,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S20R,L2,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,swims,,MLD
+S20R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S20R,L2,NCG,Targ18,n,n,y,from-part,y,to-pp,Source-Goal,travels,,MLD
+S20R,L2,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S20R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S20R,L2,NCG,Targ16,n,n,n,,y,to-part,Goal Only,walks,,MLD
+S20R,L2,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S20R,L2,NCG,Targ9,n,n,y,from-pp,y,to-part,Source-Goal,slithers,,MLD
+S20R,L2,NCG,Targ3,n,n,y,from-pp,y,to-part,Source-Goal,runs,,MLD
+S20R,L2,NCG,Targ10,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S21R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S21R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S21R,L3,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,moves,interprets this as a sort of carrying event,MLD
+S21R,L3,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S21R,L3,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S21R,L3,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S21R,L3,NCG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,comes,,MLD
+S21R,L3,NCG,Targ4,n,n,y,from-pp,n,,Source Only,pursues,,MLD
+S21R,L3,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S21R,L3,NCG,Targ8,n,n,y,from-pp,y,into-pp,Source-Goal,hovers,,MLD
+S21R,L3,NCG,Targ18,n,n,y,from-pp,y,under-pp,Source-Goal,moves,,MLD
+S21R,L3,NCG,Targ11,n,n,y,from-pp,y,into-pp,Source-Goal,flies,,MLD
+S21R,L3,NCG,Targ14,n,n,y,from-pp,y,other,Source-Goal,drives,"uses phrasal ""drives home"", but separates drives and home with source phrase. i.e., goal so reduced, just mentions goal noun",MLD
+S21R,L3,NCG,Targ16,n,n,n,,n,,none,walks,doesn't treat this as motion event between two objects,MLD
+S21R,L3,NCG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,jumps,,MLD
+S21R,L3,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S21R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S21R,L3,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S22R,L1,CG,Targ13,n,n,y,at-pp,y,to-pp,Source-Goal,conjoined,started + crawled,MLD
+S22R,L1,CG,Targ2,n,n,n,,y,to-pp,Goal Only,runs,,MLD
+S22R,L1,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S22R,L1,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S22R,L1,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S22R,L1,CG,Targ15,n,n,n,,y,to-pp,Goal Only,hops,,MLD
+S22R,L1,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S22R,L1,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S22R,L1,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S22R,L1,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S22R,L1,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S22R,L1,CG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S22R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S22R,L1,CG,Targ16,n,n,n,,y,to-pp,Goal Only,tiptoes,,MLD
+S22R,L1,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S22R,L1,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S22R,L1,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S22R,L1,CG,Targ10,,,,,,,,,utterance undiscernable,MLD
+S23R,L2,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S23R,L2,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S23R,L2,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S23R,L2,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S23R,L2,CG,Targ5,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S23R,L2,CG,Targ15,y,n,y,from-pp,y,to-pp,Source-Goal,hops,"doesn't know what ""well"" (goal) is, references it, but doesn't name the noun itself",MLD
+S23R,L2,CG,Targ6,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S23R,L2,CG,Targ4,n,n,n,,y,to-pp,Goal Only,goes,,MLD
+S23R,L2,CG,Targ12,n,n,n,,n,,none,moves,doesn't treat this as motion event between two objects,MLD
+S23R,L2,CG,Targ8,n,n,y,from-pp,n,,Source Only,flies,,MLD
+S23R,L2,CG,Targ18,n,n,n,,y,to-pp,Goal Only,moves,,MLD
+S23R,L2,CG,Targ11,n,n,n,,y,on-pp,Goal Only,lands,,MLD
+S23R,L2,CG,Targ14,n,n,n,,y,to-pp,Goal Only,drives,,MLD
+S23R,L2,CG,Targ16,n,n,n,,n,,none,escapes,doesn't treat this as motion event between two objects,MLD
+S23R,L2,CG,Targ1,n,n,n,,y,to-pp,Goal Only,jumps,,MLD
+S23R,L2,CG,Targ9,n,n,n,,n,,none,slithers,doesn't treat this as motion event between two objects,MLD
+S23R,L2,CG,Targ3,n,n,n,,y,to-part,Goal Only,runs,,MLD
+S23R,L2,CG,Targ10,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S24R,L2,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S24R,L2,CG,Targ2,n,n,y,from-pp,y,to-part,Source-Goal,gallops,,MLD
+S24R,L2,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S24R,L2,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S24R,L2,CG,Targ5,n,n,y,at-pp,y,to-pp,Source-Goal,conjoined,starts + does a loop + makes it,MLD
+S24R,L2,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,bounces,,MLD
+S24R,L2,CG,Targ6,n,n,y,at-pp,y,to-part,Source-Goal,conjoined,starts + flies,MLD
+S24R,L2,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S24R,L2,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S24R,L2,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,makes + path,makes a beeline,MLD
+S24R,L2,CG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,moves,,MLD
+S24R,L2,CG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S24R,L2,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S24R,L2,CG,Targ16,n,n,y,other-pp,y,towards-pp,Source-Goal,conjoined,starts off + makes XXX steps; other-pp = near,MLD
+S24R,L2,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,makes + manner,makes a hop,MLD
+S24R,L2,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S24R,L2,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S24R,L2,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,makes + path,,MLD
+S25R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S25R,L3,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S25R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,brings,interprets this as a sort of carrying event,MLD
+S25R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S25R,L3,CG,Targ5,n,n,y,at-pp,y,to-pp,Source-Goal,conjoined,started + moves + does circle,MLD
+S25R,L3,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S25R,L3,CG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,floats,,MLD
+S25R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S25R,L3,CG,Targ12,n,n,y,from-pp,y,to-part,Source-Goal,goes,describes dip to the sand between source and goal,MLD
+S25R,L3,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S25R,L3,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S25R,L3,CG,Targ11,n,n,n,,y,to-pp,Goal Only,conjoined,grows + flies + becomes smaller,MLD
+S25R,L3,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S25R,L3,CG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,tiptoes,,MLD
+S25R,L3,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S25R,L3,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S25R,L3,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S25R,L3,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S26R,L1,NCG,Targ13,n,n,y,from-pp,y,to-part,Source-Goal,crawls,,MLD
+S26R,L1,NCG,Targ2,n,n,y,from-pp,y,to-part,Source-Goal,gallops,,MLD
+S26R,L1,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S26R,L1,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S26R,L1,NCG,Targ5,n,n,y,other-pp,y,to-pp,Source-Goal,flies,other-pp = around,MLD
+S26R,L1,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S26R,L1,NCG,Targ6,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S26R,L1,NCG,Targ4,n,y,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S26R,L1,NCG,Targ12,n,y,y,v-np,y,to-pp,Source-Goal,goes,,MLD
+S26R,L1,NCG,Targ8,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S26R,L1,NCG,Targ18,n,y,y,from-part,y,to-part,Source-Goal,crawls,,MLD
+S26R,L1,NCG,Targ11,n,n,y,from-pp,y,onto-pp,Source-Goal,conjoined,flies + lands,MLD
+S26R,L1,NCG,Targ14,n,n,y,from-pp,y,to-part,Source-Goal,drives,,MLD
+S26R,L1,NCG,Targ16,n,n,y,from-part,y,to-part,Source-Goal,walks,,MLD
+S26R,L1,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S26R,L1,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S26R,L1,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S26R,L1,NCG,Targ10,n,n,y,on-pp,y,towards-pp,Source-Goal,flies,,MLD
+S27R,L2,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S27R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,SCF
+S27R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,throws away (food) + walks,SCF
+S27R,L2,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S27R,L2,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S27R,L2,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,SCF
+S27R,L2,NCG,Targ6,n,n,y,from-pp,y,to-part,Goal-Source,flies,"uses ""up to"" a rainbow",SCF
+S27R,L2,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S27R,L2,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S27R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S27R,L2,NCG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S27R,L2,NCG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands on,SCF
+S27R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S27R,L2,NCG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S27R,L2,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S27R,L2,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,SCF
+S27R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S27R,L2,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S28R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,HC
+S28R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,HC
+S28R,L3,NCG,Targ17,n,n,y,from-pp,y,towards-pp,Source-Goal,walks,,HC
+S28R,L3,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,HC
+S28R,L3,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S28R,L3,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,HC
+S28R,L3,NCG,Targ6,n,n,y,from-part,y,to-pp,Source-Goal,drops,,HC
+S28R,L3,NCG,Targ4,n,n,y,v-np,y,v-np,Goal-Source,conjoined,"returns + pollinating; interprets as return event; source mentioned in after clause; ""after pollinating a flower""",HC
+S28R,L3,NCG,Targ12,n,n,y,from-pp,y,to-part,Source-Goal,travels,,HC
+S28R,L3,NCG,Targ8,n,n,y,away-part,y,into-pp,Source-Goal,flies,,HC
+S28R,L3,NCG,Targ18,n,n,y,from-part,y,to-pp,Source-Goal,scurries,,HC
+S28R,L3,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,travels,,HC
+S28R,L3,NCG,Targ14,n,n,y,from-pp,y,to-part,Source-Goal,travels,,HC
+S28R,L3,NCG,Targ16,n,n,n,,y,to-pp,Goal Only,sneaks,,HC
+S28R,L3,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,HC
+S28R,L3,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers ,,HC
+S28R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,HC
+S28R,L3,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S29R,L1,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S29R,L1,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S29R,L1,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,carries,,SCF
+S29R,L1,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S29R,L1,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S29R,L1,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,SCF
+S29R,L1,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,floats,,SCF
+S29R,L1,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S29R,L1,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S29R,L1,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S29R,L1,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,scurries,,SCF
+S29R,L1,CG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands on,SCF
+S29R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,uses left + right instead of reference objects,SCF
+S29R,L1,CG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,sneaks,,SCF
+S29R,L1,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,SCF
+S29R,L1,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,SCF
+S29R,L1,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S29R,L1,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S30R,L2,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,"Starts with ""It's literally just a baby girl...""",HC
+S30R,L2,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,goes,"Mannor of Motion: uses ""is going""; Audio is extremely quiet at the end, hard to make out what subject is saying.",HC
+S30R,L2,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,goes,"Mannor of Motion: says ""It is this waitress going from...""; Audio is extremely quiet at the end",HC
+S30R,L2,CG,Targ7,n,y,y,other-pp,y,to-pp,Source-Goal,goes,"Mannor of Motion: says ""It starts with a boy going from...""",MLD
+S30R,L2,CG,Targ5,n,y,y,on-pp,y,to-pp,Source-Goal,flutters,,MLD
+S30R,L2,CG,Targ15,n,y,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S30R,L2,CG,Targ6,n,y,y,from-pp,y,to-part,Source-Goal,flies,it's a fairy starting from,MLD
+S30R,L2,CG,Targ4,n,y,y,from-pp,y,to-pp,Source-Goal,goes,it's a bee starting from,MLD
+S30R,L2,CG,Targ12,n,y,y,v-np,y,v-np,Source-Goal,conjoined,checks out + explores; also summarizes as moves from shipwreck to cave,MLD
+S30R,L2,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,transcends,odd choice of verb,MLD
+S30R,L2,CG,Targ18,n,n,y,from-pp,y,under-pp,Source-Goal,conjoined,makes its way + crawls,MLD
+S30R,L2,CG,Targ11,n,n,y,from-pp,y,onto-pp,Source-Goal,conjoined,takes off + goes,MLD
+S30R,L2,CG,Targ14,n,y,y,from-pp,y,to-pp,Source-Goal,travels,starts from,MLD
+S30R,L2,CG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,goes,starts from,MLD
+S30R,L2,CG,Targ1,n,y,y,on-pp,y,to-pp,Source-Goal,jumps,starts from,MLD
+S30R,L2,CG,Targ9,n,y,y,from-pp,y,other-pp,Source-Goal,conjoined,"slithering + hiding; goal = ""behind-pp""",MLD
+S30R,L2,CG,Targ3,n,y,y,other-pp,y,to-pp,Source-Goal,walks,"source = ""near-pp""",MLD
+S30R,L2,CG,Targ10,y,y,y,on-pp,y,on-pp,Source-Goal,conjoined,goes + stops + perches,MLD
+S31R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S31R,L3,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S31R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S31R,L3,CG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,uses both reference objects & left/right to describe motion,SCF
+S31R,L3,CG,Targ5,n,y,y,v-np,y,to-pp,Source-Goal,flies,,SCF
+S31R,L3,CG,Targ15,n,n,y,from-part,y,to-pp,Source-Goal,hops,,SCF
+S31R,L3,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S31R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S31R,L3,CG,Targ12,n,n,y,other-part,y,v-np,Source-Goal,conjoined,comes out & ends at,SCF
+S31R,L3,CG,Targ8,,,,,,,,,accidentally skipped recording,SCF
+S31R,L3,CG,Targ18,n,n,y,from-part,y,under-pp,Source-Goal,runs,,SCF
+S31R,L3,CG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S31R,L3,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S31R,L3,CG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,walks,"**should this be ""other"": the burglar walks on the roof, from the chimney to the ladder""",SCF
+S31R,L3,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S31R,L3,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,goes,uses both reference objects & left/right to describe motion,SCF
+S31R,L3,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S31R,L3,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S32R,L1,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,HC
+S32R,L1,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,HC
+S32R,L1,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,HC
+S32R,L1,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S32R,L1,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S32R,L1,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S32R,L1,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S32R,L1,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S32R,L1,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S32R,L1,NCG,Targ8,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S32R,L1,NCG,Targ18,n,n,y,from-pp,y,under-pp,Source-Goal,runs,,SCF
+S32R,L1,NCG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands on,SCF
+S32R,L1,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S32R,L1,NCG,Targ16,n,n,n,,y,to-pp,Goal Only,creeps,,SCF
+S32R,L1,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S32R,L1,NCG,Targ9,n,n,n,,y,to-pp,Goal Only,slithers,,SCF
+S32R,L1,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S32R,L1,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S33R,L2,NCG,Targ13,n,n,n,,y,to-pp,Goal Only,crawls,,SCF
+S33R,L2,NCG,Targ2,n,n,y,v-np,n,,Source Only,leaves,"""A horse leaving a barn""",SCF
+S33R,L2,NCG,Targ17,n,n,n,,n,,none,throws away,doesn't treat this as a motion event between two objects: treats this as a carrying/throwing event,SCF
+S33R,L2,NCG,Targ7,n,n,n,,y,into-pp,Goal Only,walks,,SCF
+S33R,L2,NCG,Targ5,n,n,n,,y,onto-pp,Goal Only,flies,,SCF
+S33R,L2,NCG,Targ15,n,n,n,,y,to-pp,Goal Only,hops,,SCF
+S33R,L2,NCG,Targ6,n,n,n,,y,to-pp,Goal Only,flies,,SCF
+S33R,L2,NCG,Targ4,n,n,y,from-pp,n,,Source Only,get,"""A bee getting pollen from a flower""",SCF
+S33R,L2,NCG,Targ12,n,n,n,,y,into-pp,Goal Only,goes,,SCF
+S33R,L2,NCG,Targ8,n,n,n,,n,,none,flies,"doesn't treat this as motion event between two objects: mentions the goal, but doesn't say that it's teh goal",SCF
+S33R,L2,NCG,Targ18,n,n,n,,y,to-pp,Goal Only,crawls,,SCF
+S33R,L2,NCG,Targ11,n,n,n,,y,on-pp,Goal Only,lands,,SCF
+S33R,L2,NCG,Targ14,n,n,n,,n,,none,drives,"doesn't treat this as motion event between two objects: a red sports car driving past a shop. mentions the goal, but doesn't say that it's the goal",SCF
+S33R,L2,NCG,Targ16,y,n,n,,n,,none,goes,"doesn't treat this as motion event between two objects: a robber going down the stairs. should be ladder - mentions it, but doesn't say that it's the goal",SCF
+S33R,L2,NCG,Targ1,n,n,n,,y,onto-pp,Goal Only,jumps,,SCF
+S33R,L2,NCG,Targ9,n,n,n,,n,,none,slithers, doesn't treat this as motion event between two objects: a snake slithering outside,SCF
+S33R,L2,NCG,Targ3,n,n,n,,n,,none,goes, doesn't treat this as motion event between two objects:a puppy going to get a drink of water,SCF
+S33R,L2,NCG,Targ10,n,n,n,,n,,none,flies," doesn't treat this as motion event between two objects: a bird flying over a tent. mentions the goal, but doesn't say that this is the goal",SCF
+S34R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,HC
+S34R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,HC
+S34R,L3,NCG,Targ17,n,n,y,to-part,y,to-pp,Goal-Source,goes,"""She went to the trash can, and then she went back to the refrigerator""",HC
+S34R,L3,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,HC
+S34R,L3,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S34R,L3,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,HC
+S34R,L3,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,HC
+S34R,L3,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S34R,L3,NCG,Targ12,y,n,y,from-pp,y,to-pp,Source-Goal,swims,didn't know name for submarine,HC
+S34R,L3,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S34R,L3,NCG,Targ18,,,,,,,,,accidentally pressed key to fast - skipped through video,HC
+S34R,L3,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,goes ,,HC
+S34R,L3,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,HC
+S34R,L3,NCG,Targ16,n,y,y,from-pp,y,to-pp,Source-Goal,goes ,,HC
+S34R,L3,NCG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,leaps,,HC
+S34R,L3,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,HC
+S34R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,Said she wasn't sure if dogs gallop or crawl,HC
+S34R,L3,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S35R,L1,NCG,Targ13,n,n,y,from-pp,y,towards-pp,Source-Goal,crawls,,SCF
+S35R,L1,NCG,Targ2,n,n,y,from-pp,y,towards-pp,Source-Goal,runs,,SCF
+S35R,L1,NCG,Targ17,n,y,n,,y,other,Goal Only,reaches,"describes the room then says ""waitress reaches the trashcan"" omiting the source",SCF
+S35R,L1,NCG,Targ7,n,n,y,from-pp,y,towards-pp,Source-Goal,walks,,SCF
+S35R,L1,NCG,Targ5,n,y,y,from-pp,y,towards-pp,Source-Goal,flies,"""Butterfly flies from left to right. On the left is a streetlight then on the right there is a chair, so the butterfly is flying towards the chair",SCF
+S35R,L1,NCG,Targ15,n,n,y,from-pp,y,towards-pp,Source-Goal,hops,,SCF
+S35R,L1,NCG,Targ6,n,n,y,from-pp,y,towards-pp,Source-Goal,moves,,SCF
+S35R,L1,NCG,Targ4,n,n,y,from-pp,y,towards-pp,Source-Goal,travels,"""There is a purple flower on the left and on the right there is a beehive. The bee travels from the flowers to where the other bees are, the beehive""",SCF
+S35R,L1,NCG,Targ12,n,y,y,from-pp,y,towards-pp,Source-Goal,travels,,SCF
+S35R,L1,NCG,Targ8,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S35R,L1,NCG,Targ18,n,y,y,from-pp,y,towards-pp,Source-Goal,travels,,SCF
+S35R,L1,NCG,Targ11,n,y,y,from-pp,y,towards-pp,Source-Goal,launches,,SCF
+S35R,L1,NCG,Targ14,n,y,y,from-pp,y,to-pp,Source-Goal,travels,,SCF
+S35R,L1,NCG,Targ16,n,y,y,from-pp,y,to-pp,Source-Goal,travels,,SCF
+S35R,L1,NCG,Targ1,n,y,y,from-pp,y,towards-pp,Source-Goal,jumps,,SCF
+S35R,L1,NCG,Targ9,n,y,y,from-pp,y,towards-pp,Source-Goal,travels,,SCF
+S35R,L1,NCG,Targ3,n,y,y,from-pp,y,towards-pp,Source-Goal,runs,,SCF
+S35R,L1,NCG,Targ10,n,y,y,from-pp,y,towards-pp,Source-Goal,travels,,SCF
+S36R,L2,NCG,Targ13,n,n,n,,n,,none,moves,doesn't interpret as a motion event between two objects:,HC
+S36R,L2,NCG,Targ2,n,n,n,,y,towards-pp,Goal Only,gallops,,HC
+S36R,L2,NCG,Targ17,n,n,n,,n,,none,throws away,"doesn't interpret as a motion event between two objects: ""Throws the food away""",HC
+S36R,L2,NCG,Targ7,y,n,n,,n,,none,moves,doesn't interpret as a motion event between two objects,HC
+S36R,L2,NCG,Targ5,n,n,n,,y,towards-pp,Goal Only,goes ,,HC
+S36R,L2,NCG,Targ15,n,n,n,,n,,none,jumps,doesn't interpret as a motion event between two objects,HC
+S36R,L2,NCG,Targ6,n,n,n,,y,towards-pp,Goal Only,moves,,HC
+S36R,L2,NCG,Targ4,n,n,n,,y,towards-pp,Goal Only,goes,,HC
+S36R,L2,NCG,Targ12,n,n,n,,n,,none,moves,doesn't interpret as a motion event between two objects:,HC
+S36R,L2,NCG,Targ8,n,n,n,,n,,none,flies,doesn't interpret as a motion event between two objects:,HC
+S36R,L2,NCG,Targ18,n,n,n,,n,,none,scurries ,doesn't interpret as a motion event between two objects:,HC
+S36R,L2,NCG,Targ11,n,n,n,,y,on-pp,Goal Only,lands ,,HC
+S36R,L2,NCG,Targ14,n,n,n,,n,,none,moves,,HC
+S36R,L2,NCG,Targ16,n,n,n,,n,,none,moves,doesn't interpret as a motion event between two objects,HC
+S36R,L2,NCG,Targ1,n,n,n,,n,,none,leaps,,HC
+S36R,L2,NCG,Targ9,n,n,n,,n,,none,moves ,,HC
+S36R,L2,NCG,Targ3,n,n,n,,n,,none,runs,,HC
+S36R,L2,NCG,Targ10,n,n,n,,n,,none,flies,"mentions direction ""down"", but does not reference any objects",HC
+S37R,L1,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S37R,L1,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S37R,L1,CG,Targ17,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S37R,L1,CG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S37R,L1,CG,Targ5,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S37R,L1,CG,Targ15,n,y,y,from-pp,y,to-pp,Source-Goal,conjoined,starts + goes + travel,SCF
+S37R,L1,CG,Targ6,n,y,y,from-pp,y,to-pp,Source-Goal,conjoined,"starts + takes + goes :""Fairy starts from the castle on the bottom left and instead of taking a direct path like instead of taking the hypotenuse to the rainbow it goes 90 degrees to the right and 90 degrees up to the rainbow""",SCF
+S37R,L1,CG,Targ4,n,y,y,from-pp,y,to-part,Source-Goal,goes,,SCF
+S37R,L1,CG,Targ12,n,y,y,from-pp,y,towards-pp,Source-Goal,moves,"starts + moves + arrives: ""The submarine starts from the shipwreck on the right then moves towards the cave not in a linear fashion but in a zig zag motion a singular zig zag moves like down up then down then it arrived""",SCF
+S37R,L1,CG,Targ8,n,y,y,from-pp,y,to-part,Source-Goal,moves,"""down to the left to the hosue""",SCF
+S37R,L1,CG,Targ18,n,y,y,from-part,y,to-part,Source-Goal,conjoined,"starts + goes ""The rat starts from underneath the slide and then goes down in a straight line and then kind of curves down to the left to go underneath the red bench",SCF
+S37R,L1,CG,Targ11,n,y,y,other-pp,y,towards-pp,Source-Goal,goes,it starts by the space station ... goes towards the planet on the bottom left by like turning clockwise 90 degress.. and then lands on the planet,SCF
+S37R,L1,CG,Targ14,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S37R,L1,CG,Targ16,n,y,y,from-pp,y,to-pp,Source-Goal,conjoined,moves + walks + runs,SCF
+S37R,L1,CG,Targ1,n,y,y,from-pp,y,to-pp,Source-Goal,conjoined,moves + goes,SCF
+S37R,L1,CG,Targ9,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S37R,L1,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S37R,L1,CG,Targ10,n,y,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S38R,L2,CG,Targ13,n,n,y,from-pp,y,to-part,Source-Goal,crawls,,MLD
+S38R,L2,CG,Targ2,n,n,y,from-pp,y,to-part,Source-Goal,gallops,,MLD
+S38R,L2,CG,Targ17,n,n,y,from-pp,y,to-part,Source-Goal,walks,,MLD
+S38R,L2,CG,Targ7,n,n,y,from-pp,y,to-part,Source-Goal,walks,,MLD
+S38R,L2,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S38R,L2,CG,Targ15,n,n,y,from-part,y,to-part,Source-Goal,bounces,,MLD
+S38R,L2,CG,Targ6,n,n,y,from-pp,y,into-pp,Source-Goal,ascends,,MLD
+S38R,L2,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S38R,L2,CG,Targ12,n,n,y,from-pp,y,v-np,Source-Goal,conjoined,moves + explores,MLD
+S38R,L2,CG,Targ8,n,n,y,from-part,y,to-pp,Source-Goal,flies,,MLD
+S38R,L2,CG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,crawls,,MLD
+S38R,L2,CG,Targ11,n,n,y,from-pp,y,to-part,Source-Goal,conjoined,goes + goes,MLD
+S38R,L2,CG,Targ14,n,n,y,from-pp,y,other,Source-Goal,drives,"interprets as a return event: ""drives from a store back home""",MLD
+S38R,L2,CG,Targ16,n,n,n,,y,to-pp,Goal Only,tiptoes,,MLD
+S38R,L2,CG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,hops,,MLD
+S38R,L2,CG,Targ9,n,n,y,from-pp,y,other-pp,Source-Goal,conjoined,"crawls + slithers; other-pp = ""behind the bush""",MLD
+S38R,L2,CG,Targ3,n,n,y,from-pp,y,to-part,Goal-Source,prances,,MLD
+S38R,L2,CG,Targ10,n,n,y,on-pp,y,to-part,Source-Goal,goes,,MLD
+S39R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S39R,L3,CG,Targ2,n,n,y,from-pp,y,to-part,Source-Goal,gallops,,MLD
+S39R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S39R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S39R,L3,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,conjoined,flies + does loop,MLD
+S39R,L3,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,describes hopping more specifically,MLD
+S39R,L3,CG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S39R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,meanders,also describes flight path,MLD
+S39R,L3,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,moves,also describes flight path at end,MLD
+S39R,L3,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,goes,also describes flight path,MLD
+S39R,L3,CG,Targ18,n,n,y,from-pp,y,under-pp,Source-Goal,conjoined,appears to fall + scurries,MLD
+S39R,L3,CG,Targ11,n,n,y,v-np,y,on-pp,Source-Goal,conjoined,leave + ascends + lands,MLD
+S39R,L3,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S39R,L3,CG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,does + manner,does high-knees,MLD
+S39R,L3,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,makes + manner,makes a leap,MLD
+S39R,L3,CG,Targ9,n,n,y,from-part,y,to-pp,Source-Goal,slithers,,MLD
+S39R,L3,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,prances,,MLD
+S39R,L3,CG,Targ10,n,n,y,from-part,y,to-pp,Source-Goal,jumps,,MLD
+S40R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,HC
+S40R,L3,NCG,Targ2,n,n,n,,y,other-pp,Goal Only,runs,"other-pp = ""in front of""",HC
+S40R,L3,NCG,Targ17,n,n,n,,y,to-pp,Goal Only,walks ,,HC
+S40R,L3,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks ,,HC
+S40R,L3,NCG,Targ5,n,n,n,,y,other-pp,Goal Only,flies,"other-pp = ""near""",HC
+S40R,L3,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,HC
+S40R,L3,NCG,Targ6,n,n,y,from-part,y,to-pp,Source-Goal,comes ,,HC
+S40R,L3,NCG,Targ4,n,n,n,,y,to-part,Goal Only,flies,"interprets this as a return event; ""flying back to""",HC
+S40R,L3,NCG,Targ12,n,n,n,,y,to-pp,Goal Only,goes,,HC
+S40R,L3,NCG,Targ8,n,n,n,,n,,none,flies,doesn't interpret this as a motion event between two objects,HC
+S40R,L3,NCG,Targ18,n,n,n,,n,,none,is,doesn't interpret this as a motion event between two objects,HC
+S40R,L3,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,launches,doesn't interpret this as a motion event between two objects,HC
+S40R,L3,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,HC
+S40R,L3,NCG,Targ16,n,n,n,,n,,none,tiptoes,doesn't interpret this as a motion event between two objects,HC
+S40R,L3,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,HC
+S40R,L3,NCG,Targ9,n,n,n,,n,,none,is,doesn't interpret this as a motion event between two objects,HC
+S40R,L3,NCG,Targ3,n,n,n,,n,,none,jumps,doesn't interpret this as a motion event between two objects,HC
+S40R,L3,NCG,Targ10,n,n,n,,y,to-part,Goal Only,conjoined,flies + lands,HC
+S41R,L1,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S41R,L1,NCG,Targ2,n,n,n,,y,to-pp,Goal Only,brings,,SCF
+S41R,L1,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S41R,L1,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S41R,L1,NCG,Targ5,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S41R,L1,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,SCF
+S41R,L1,NCG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,flies,,SCF
+S41R,L1,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S41R,L1,NCG,Targ12,n,n,n,,n,,none,is,"Not a motion event: ""There is a submarine and a sunken ship""",SCF
+S41R,L1,NCG,Targ8,n,n,y,from-part,y,to-pp,Source-Goal,flies,,SCF
+S41R,L1,NCG,Targ18,n,n,y,from-pp,y,to-part,Source-Goal,moves,,SCF
+S41R,L1,NCG,Targ11,n,n,n,,y,on-pp,Goal Only,lands,"Not between two reference objects: ""A rocket ship is landing on a planet""",SCF
+S41R,L1,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S41R,L1,NCG,Targ16,y,n,n,,y,towards-pp,Goal Only,moves,"Not between two reference objects: ""A bad guy is moving towards the chimney""",SCF
+S41R,L1,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S41R,L1,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,SCF
+S41R,L1,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S41R,L1,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S42R,L2,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,HC
+S42R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,rides,,HC
+S42R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,conjoined,holds + walks,HC
+S42R,L2,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks ,,HC
+S42R,L2,NCG,Targ5,n,y,n,,y,on-pp,Goal Only,lands,,HC
+S42R,L2,NCG,Targ15,n,y,y,from-pp,y,to-pp,Source-Goal,hops,,HC
+S42R,L2,NCG,Targ6,n,n,y,other-pp,y,to-part,Source-Goal,conjoined,rides + goes ,HC
+S42R,L2,NCG,Targ4,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands,HC
+S42R,L2,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,HC
+S42R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies ,,HC
+S42R,L2,NCG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,goes,,HC
+S42R,L2,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,HC
+S42R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,HC
+S42R,L2,NCG,Targ16,n,n,y,from-part,y,to-pp,Source-Goal,walks ,,HC
+S42R,L2,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,HC
+S42R,L2,NCG,Targ9,n,n,y,from-part,y,to-part,Source-Goal,goes ,,HC
+S42R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs ,,HC
+S42R,L2,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S43R,L3,NCG,Targ13,n,n,n,,y,towards-pp,Goal Only,crawls,,SCF
+S43R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S43R,L3,NCG,Targ17,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S43R,L3,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S43R,L3,NCG,Targ5,n,n,n,,y,towards-pp,Goal Only,goes,,SCF
+S43R,L3,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S43R,L3,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S43R,L3,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S43R,L3,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S43R,L3,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S43R,L3,NCG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S43R,L3,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S43R,L3,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S43R,L3,NCG,Targ16,n,n,n,,y,towards-pp,Source-Goal,prances,,SCF
+S43R,L3,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S43R,L3,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S43R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S43R,L3,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S44R,L1,CG,Targ13,n,n,n,,n,,none,crawls,doesn't interpret this as a motion event between two objects,HC
+S44R,L1,CG,Targ2,n,n,n,,n,,none,gallops,doesn't interpret this as a motion event between two objects,HC
+S44R,L1,CG,Targ17,n,n,n,,y,to-pp,Goal Only,takes,doesn't treat this as a motion event between two objects: treats this as a carrying/throwing event,HC
+S44R,L1,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks ,,HC
+S44R,L1,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S44R,L1,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,HC
+S44R,L1,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S44R,L1,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,travels,,HC
+S44R,L1,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S44R,L1,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,walks ,,HC
+S44R,L1,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,travels,,HC
+S44R,L1,CG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,travels ,,HC
+S44R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,travels,,HC
+S44R,L1,CG,Targ16,n,n,n,,n,,none,tiptoes,,HC
+S44R,L1,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,HC
+S44R,L1,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,HC
+S44R,L1,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,HC
+S44R,L1,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,HC
+S45R,L2,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S45R,L2,CG,Targ2,n,n,y,from-pp,y,to-part,Source-Goal,gallops,,SCF
+S45R,L2,CG,Targ17,n,n,y,from-pp,y,to-part,Source-Goal,walks,,SCF
+S45R,L2,CG,Targ7,n,n,y,from-part,y,to-part,Source-Goal,walks,,SCF
+S45R,L2,CG,Targ5,n,n,y,on-pp,y,to-part,Source-Goal,flies,,SCF
+S45R,L2,CG,Targ15,n,n,y,from-pp,y,to-part,Source-Goal,jumps,,SCF
+S45R,L2,CG,Targ6,n,n,y,other-pp,y,into-pp,Source-Goal,flies,,SCF
+S45R,L2,CG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,,SCF
+S45R,L2,CG,Targ12,n,n,y,other-pp,y,to-part,Source-Goal,goes,,SCF
+S45R,L2,CG,Targ8,n,n,y,other-pp,y,to-pp,Source-Goal,flies,,SCF
+S45R,L2,CG,Targ18,n,n,y,under-pp,y,to-part,Source-Goal,crawls,,SCF
+S45R,L2,CG,Targ11,n,n,y,other-pp,y,to-part,Source-Goal,flies,,SCF
+S45R,L2,CG,Targ14,n,n,y,other-pp,y,to-part,Source-Goal,drives,,SCF
+S45R,L2,CG,Targ16,n,n,y,other-pp,y,other-pp,Source-Goal,tiptoes,other-pp = at,SCF
+S45R,L2,CG,Targ1,n,n,y,from-pp,y,to-part,Source-Goal,jumps,,SCF
+S45R,L2,CG,Targ9,n,n,y,from-pp,y,to-part,Source-Goal,goes,,SCF
+S45R,L2,CG,Targ3,n,n,y,at-pp,y,to-part,Source-Goal,runs,,SCF
+S45R,L2,CG,Targ10,n,n,y,on-pp,y,to-part,Source-Goal,flies,,SCF
+S46R,L2,CG,Targ13,n,n,y,from-part,y,to-part,Source-Goal,crawls,,HC
+S46R,L2,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,HC
+S46R,L2,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,"""from the top right where the fridge is to the bottom right...""",HC
+S46R,L2,CG,Targ7,n,n,y,on-pp,y,other-pp,Source-Goal,conjoined,"starts + on the right side of the screen; walks over; stands + in front of the oven; other-pp = ""in front of""",HC
+S46R,L2,CG,Targ5,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"starts + on the right side of the screen by the chair; swirls over to the left side of the screen in front of the lampost ; source other-pp = by; goal other-pp = ""in front of""",HC
+S46R,L2,CG,Targ15,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,starts + on the left side of the screen by the apples; hops a few times over to the right side of the screen by the well; other-pp = by for both source and goal,HC
+S46R,L2,CG,Targ6,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"motion: starts, flies, shrinks away, ends; in front of the castle, up into the sky, on top of the rainbow",HC
+S46R,L2,CG,Targ4,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"motion: starts, flies; starts on the top right by the hive, flies down to the bottom left of the screen by the flower; other-pp = by for both source and goal",HC
+S46R,L2,CG,Targ12,n,n,y,other-pp ,y,other-pp,Source-Goal,conjoined,"motion: starts, bounces; in front of the shipwreck on the right side of the screen, to the left side of the screen in front of the cave",HC
+S46R,L2,CG,Targ8,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"motion: starts, flies; on the top right of the screen on top of the moon, to the bottom left of the screen in front of the castle hosue",HC
+S46R,L2,CG,Targ18,n,n,y,other-pp,y,under-pp,Source-Goal,conjoined,"motion: starts, does a j-shape...; in front of the bench",HC
+S46R,L2,CG,Targ11,n,n,y,other-pp,y,on-pp,Source-Goal,conjoined,"motion: starts, flies, switches; on top of the satellite on the top right of the screen, on the planet",HC
+S46R,L2,CG,Targ14,n,n,y,other-pp,y,on-pp,Source-Goal,conjoined,"motion: starts, drives, ends; in front of the storefront on the right",HC
+S46R,L2,CG,Targ16,n,n,n,,y,other-pp,Goal Only,conjoined,"motion: tiptoe, dances, ends; ends on a ladder on the right side of the house",HC
+S46R,L2,CG,Targ1,n,n,y,other-pp,y,other-pp,Source-Goal,leaps,on top of...,HC
+S46R,L2,CG,Targ9,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"motion: starts, slithers, ends; in front of the rock on the right side of the screen, to the left side of the screen and ends behind the bush",HC
+S46R,L2,CG,Targ3,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"motion: starts, runs, ends; from the bottom right of the screen, on top of the bull in front of the house towards the left of the screen",HC
+S46R,L2,CG,Targ10,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,,HC
+S47R,L3,CG,Targ13,n,y,y,on-pp,y,to-pp,Source-Goal,crawls,,SCF
+S47R,L3,CG,Targ2,n,n,y,in-pp,y,other-part,Source-Goal,gallops,,SCF
+S47R,L3,CG,Targ17,n,y,y,other-pp,y,other-pp,Source-Goal,walks,,SCF
+S47R,L3,CG,Targ7,n,y,y,other-pp,y,to-pp,Source-Goal,walks,,SCF
+S47R,L3,CG,Targ5,n,y,y,on-pp,y,on-pp,Source-Goal,flies,,SCF
+S47R,L3,CG,Targ15,n,n,y,other-pp,y,other-pp,Source-Goal,makes + manner,"motion: ""makes five hops""; other-pp = at",SCF
+S47R,L3,CG,Targ6,n,n,y,in-pp,y,on-pp,Source-Goal,flies,,SCF
+S47R,L3,CG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,,SCF
+S47R,L3,CG,Targ12,n,n,y,in-pp,y,in-pp,Source-Goal,does + manner,"motion: ""does the litle submarine thing and ends up in..""",SCF
+S47R,L3,CG,Targ8,n,n,y,in-pp,y,to-part,Source-Goal,makes + path,"motion: ""makes a straight diagonol run up to""",SCF
+S47R,L3,CG,Targ18,n,y,y,under-pp,y,under-pp,Source-Goal,scurries,,SCF
+S47R,L3,CG,Targ11,n,n,y,in-pp,y,into-pp,Source-Goal,conjoined,flies up + recedes back,SCF
+S47R,L3,CG,Targ14,n,n,y,in-pp,y,in-pp,Source-Goal,drives,,SCF
+S47R,L3,CG,Targ16,n,n,y,other-pp,y,to-pp,Source-Goal,tiptoes,,SCF
+S47R,L3,CG,Targ1,n,n,y,from-pp,y,to-part,Source-Goal,makes + manner,"motion: ""makes a leap""",SCF
+S47R,L3,CG,Targ9,n,n,y,other-pp,y,to-part,Source-Goal,does + manner,"motion: ""does a sneaky shimmy""",SCF
+S47R,L3,CG,Targ3,n,n,y,other-pp,y,other-pp,Source-Goal,makes + manner,"motion: ""makes three or four leaping bounds""",SCF
+S47R,L3,CG,Targ10,n,n,y,in-pp,y,other-pp,Source-Goal,makes + manner,"motion: ""makes one giant leaping flight""",SCF
+S48R,L1,NCG,Targ13,n,y,y,other,y,towards-pp,Source-Goal,crawls,includes source as part of scene setting - there is an X,MLD
+S48R,L1,NCG,Targ2,n,y,y,from-pp,y,towards-part,Source-Goal,comes,,MLD
+S48R,L1,NCG,Targ17,n,y,y,other-part,y,to-part,Source-Goal,carries,"includes source as part of scene setting - ""and next to a fridge, there is a waitress""",MLD
+S48R,L1,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S48R,L1,NCG,Targ5,n,y,y,from-pp,y,to-pp,Source-Goal,conjoined,starts + goes,MLD
+S48R,L1,NCG,Targ15,n,y,y,at-pp,y,other-pp,Source-Goal,conjoined,"starts + hops; goal-pp = ""until the right side of the screen where the well is""",MLD
+S48R,L1,NCG,Targ6,n,y,y,at-pp,y,into-pp,Source-Goal,conjoined,starts + twirled around,MLD
+S48R,L1,NCG,Targ4,n,y,y,in-pp,y,towards-pp,Source-Goal,conjoined,starts + flies,MLD
+S48R,L1,NCG,Targ12,n,y,y,towards-pp,y,towards-pp,Source-Goal,conjoined,starts + goes,MLD
+S48R,L1,NCG,Targ8,n,y,y,towards-pp,y,to-pp,Source-Goal,flies,,MLD
+S48R,L1,NCG,Targ18,n,y,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S48R,L1,NCG,Targ11,n,y,y,from-pp,y,to-pp,Source-Goal,travels,,MLD
+S48R,L1,NCG,Targ14,n,y,y,from-pp,y,to-pp,Source-Goal,travels,,MLD
+S48R,L1,NCG,Targ16,n,y,y,other,y,towards-pp,Source-Goal,tiptoes,"includes the source as part of scene setting: ""on the right, there is a ladder going up""",MLD
+S48R,L1,NCG,Targ1,n,y,y,from-pp,y,to-pp,Source-Goal,jumps,"further describes source location ""from the lower left, on the lily pad""",MLD
+S48R,L1,NCG,Targ9,n,y,n,,y,towards-pp,Goal Only,travels,,MLD
+S48R,L1,NCG,Targ3,n,y,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S48R,L1,NCG,Targ10,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S49R,L2,NCG,Targ13,n,n,n,,n,,none,crawls,"doesn't explain the motion as between two objects: ""A baby is crawling across the living room floor""",SCF
+S49R,L2,NCG,Targ2,n,n,n,,n,,none,runs,"doesn't explain the motion as between two objects:"" A horse is running on a field""",SCF
+S49R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,takes,doesn't treat this as a motion event between two objects: treats this as a carrying/throwing event,SCF
+S49R,L2,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S49R,L2,NCG,Targ5,n,n,n,,y,towards-pp,Goal Only,flies,,SCF
+S49R,L2,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S49R,L2,NCG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,flies,,SCF
+S49R,L2,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S49R,L2,NCG,Targ12,n,n,y,other-pp,y,towards-pp,Source-Goal,goes,,SCF
+S49R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S49R,L2,NCG,Targ18,n,n,y,from-part,y,to-pp,Source-Goal,runs,,SCF
+S49R,L2,NCG,Targ11,n,n,y,from-pp,y,to-part,Source-Goal,goes,,SCF
+S49R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S49R,L2,NCG,Targ16,n,n,n,,n,,none,runs,"doesn't explain the motion as between two objects:"" A burglar is running ontop of the house""",SCF
+S49R,L2,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,SCF
+S49R,L2,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,SCF
+S49R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S49R,L2,NCG,Targ10,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands,SCF
+S50R,L3,NCG,Targ13,n,n,n,,y,to-pp,Goal Only,crawls,,MLD
+S50R,L3,NCG,Targ2,n,n,n,,y,to-pp,Goal Only,runs,,MLD
+S50R,L3,NCG,Targ17,n,n,n,,y,to-pp,Goal Only,walks,,MLD
+S50R,L3,NCG,Targ7,n,n,n,,y,to-pp,Goal Only,walks,"after to-pp, further specifies ""stops at the stove""",MLD
+S50R,L3,NCG,Targ5,n,n,y,other-pp,y,other-pp,Source-Goal,conjoined,"flies around chair + flies in front of a lamp; other-pp = ""in front of""",MLD
+S50R,L3,NCG,Targ15,n,n,n,,y,to-pp,Goal Only,hops,,MLD
+S50R,L3,NCG,Targ6,n,n,y,from-part,y,to-pp,Source-Goal,comes,,MLD
+S50R,L3,NCG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,"says ""back to"" - interprets as a return event",MLD
+S50R,L3,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,travels,,MLD
+S50R,L3,NCG,Targ8,n,n,y,away-part,y,to-pp,Source-Goal,flies,,MLD
+S50R,L3,NCG,Targ18,n,n,y,from-pp,y,to-part,Source-Goal,runs,,MLD
+S50R,L3,NCG,Targ11,n,n,y,v-np,y,to-pp,Source-Goal,leaves,,MLD
+S50R,L3,NCG,Targ14,n,n,y,v-np,y,to-pp,Source-Goal,conjoined,leaves + drives,MLD
+S50R,L3,NCG,Targ16,n,n,n,,n,,none,sneaks,doesn't treat this as a motion event between two objects,MLD
+S50R,L3,NCG,Targ1,n,n,y,from-part,y,onto-pp,Source-Goal,jumps,,MLD
+S50R,L3,NCG,Targ9,n,n,n,,y,towards-pp,Goal Only,slithers,,MLD
+S50R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S50R,L3,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S51R,L1,CG,Targ13,n,n,y,from-part,y,to-pp,Source-Goal,crawls,,SCF
+S51R,L1,CG,Targ2,n,n,y,other-pp,y,towards-pp,Source-Goal,runs,,SCF
+S51R,L1,CG,Targ17,n,n,y,from-pp,y,to-part,Source-Goal,walks,,SCF
+S51R,L1,CG,Targ7,n,n,y,from-pp,y,to-part,Source-Goal,walks,,SCF
+S51R,L1,CG,Targ5,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flew + landed on,SCF
+S51R,L1,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,SCF
+S51R,L1,CG,Targ6,n,n,y,other-pp,y,other-pp,Source-Goal,flies,,SCF
+S51R,L1,CG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,,SCF
+S51R,L1,CG,Targ12,y,n,y,from-pp,y,to-pp,Source-Goal,goes,"for the motion said "" the submarine floated [err] went to""",SCF
+S51R,L1,CG,Targ8,n,y,y,from-pp,y,to-part,Source-Goal,flies,,SCF
+S51R,L1,CG,Targ18,n,y,y,from-pp,y,under-pp,Source-Goal,crawls,,SCF
+S51R,L1,CG,Targ11,n,y,y,from-pp,y,to-part,Source-Goal,conjoined,"had trouble finding a verb for the motion: ""launched or came from then went down""",SCF
+S51R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S51R,L1,CG,Targ16,n,y,y,from-pp,y,to-pp,Source-Goal,tiptoes,,SCF
+S51R,L1,CG,Targ1,n,n,y,from-pp,y,to-part,Source-Goal,conjoined,says jumped initially then corrects to floated,SCF
+S51R,L1,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,SCF
+S51R,L1,CG,Targ3,n,n,y,from-pp,y,to-part,Source-Goal,runs,,SCF
+S51R,L1,CG,Targ10,n,n,y,from-pp,y,to-part,Source-Goal,floats,,SCF
+S52R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S52R,L3,CG,Targ2,n,n,y,from-part,y,to-part,Source-Goal,gallops,,MLD
+S52R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S52R,L3,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S52R,L3,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S52R,L3,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S52R,L3,CG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S52R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S52R,L3,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S52R,L3,CG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S52R,L3,CG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S52R,L3,CG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,flies + lands,MLD
+S52R,L3,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S52R,L3,CG,Targ16,n,n,n,,y,to-pp,Goal Only,tiptoes,,MLD
+S52R,L3,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S52R,L3,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S52R,L3,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S52R,L3,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S53R,L2,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S53R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,trots,,SCF
+S53R,L2,NCG,Targ17,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S53R,L2,NCG,Targ7,n,y,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S53R,L2,NCG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S53R,L2,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,SCF
+S53R,L2,NCG,Targ6,n,n,y,other-part,y,into-pp,Source-Goal,flies,,SCF
+S53R,L2,NCG,Targ4,n,y,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S53R,L2,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S53R,L2,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S53R,L2,NCG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,SCF
+S53R,L2,NCG,Targ11,n,n,y,from-pp,y,to-part,Source-Goal,goes,,SCF
+S53R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,SCF
+S53R,L2,NCG,Targ16,n,n,y,on-pp,y,towards-pp,Source-Goal,conjoined,"creeping + walks: ""A man wearing a black bandana is creeping on the roof and walks towards a ladder"" ",SCF
+S53R,L2,NCG,Targ1,n,n,y,other-part,y,onto-pp,Source-Goal,hops,,SCF
+S53R,L2,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,SCF
+S53R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S53R,L2,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,SCF
+S54R,L3,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S54R,L3,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S54R,L3,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,brings,treats this like a transfer event,MLD
+S54R,L3,CG,Targ7,n,n,y,from-pp,y,into-pp,Source-Goal,walks,,MLD
+S54R,L3,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S54R,L3,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S54R,L3,CG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S54R,L3,CG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,brings,treats this like a transfer event,MLD
+S54R,L3,CG,Targ12,n,n,n,,y,other-pp,Goal Only,swims,goal-pp = by the shipwreck,MLD
+S54R,L3,CG,Targ8,n,n,n,,y,to-pp,Goal Only,flies,,MLD
+S54R,L3,CG,Targ18,n,n,n,,y,to-pp,Goal Only,crawls,,MLD
+S54R,L3,CG,Targ11,n,n,y,from-pp,y,to-pp,Goal-Source,flies,,MLD
+S54R,L3,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S54R,L3,CG,Targ16,n,n,n,,n,,none,sneaks,doesn't treat this as a motion event between two objects,MLD
+S54R,L3,CG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S54R,L3,CG,Targ9,n,n,n,,n,,none,slithers,doesn't treat this as a motion event between two objects,MLD
+S54R,L3,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S54R,L3,CG,Targ10,n,n,n,,y,to-part,Goal Only,flies,,MLD
+S55R,L3,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,SCF
+S55R,L3,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,SCF
+S55R,L3,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ5,n,n,n,,y,towards-pp,Goal Only,flies,"""A butterfly is flying around towards the light""",SCF
+S55R,L3,NCG,Targ15,n,n,n,,y,towards-pp,Goal Only,hops,,SCF
+S55R,L3,NCG,Targ6,n,n,y,from-pp,y,towards-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ8,n,n,n,,y,towards-pp,Goal Only,flies,,SCF
+S55R,L3,NCG,Targ18,n,n,n,,n,,none,hides,"Doesn't mention motion: ""A rat in a park, hiding under a bench""",SCF
+S55R,L3,NCG,Targ11,n,n,y,from-pp,y,towards-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ14,n,n,y,from-pp,y,towards-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ16,n,n,n,,y,towards-pp,Goal Only,walks,,SCF
+S55R,L3,NCG,Targ1,n,n,y,from-pp,y,towards-pp,Source-Goal,leaps,,SCF
+S55R,L3,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S55R,L3,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,SCF
+S55R,L3,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,SCF
+S56R,L1,NCG,Targ13,n,n,y,away-part,y,towards-pp,Goal-Source,crawls,,MLD
+S56R,L1,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S56R,L1,NCG,Targ17,n,n,n,,y,towards-pp,Goal Only,walks,treats this like a carrying event,MLD
+S56R,L1,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S56R,L1,NCG,Targ5,n,n,n,,y,on-pp,Goal Only,conjoined,"flies + lands; also mentions the source (lamppost), but doesn't say that it's the source, just describes it as being 'nearby'",MLD
+S56R,L1,NCG,Targ15,n,n,y,away-part,y,to-pp,Source-Goal,scurries,,MLD
+S56R,L1,NCG,Targ6,n,n,y,from-pp,y,to-pp,Source-Goal,floats,,MLD
+S56R,L1,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S56R,L1,NCG,Targ12,n,n,y,other-pp,y,v-np,Source-Goal,conjoined,exploring + floats + explore; source = around-pp,MLD
+S56R,L1,NCG,Targ8,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S56R,L1,NCG,Targ18,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S56R,L1,NCG,Targ11,n,n,y,from-pp,y,on-pp,Source-Goal,conjoined,launching + lands,MLD
+S56R,L1,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S56R,L1,NCG,Targ16,n,n,n,,y,other-pp,Goal Only,conjoined,creeps + sneak; goal pp = down-pp,MLD
+S56R,L1,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,leaps,,MLD
+S56R,L1,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S56R,L1,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S56R,L1,NCG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,"later mentions ""top of telephone pole""",MLD
+S58R,L2,NCG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S58R,L2,NCG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,gallops,,MLD
+S58R,L2,NCG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S58R,L2,NCG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S58R,L2,NCG,Targ5,n,n,y,from-pp,y,to-part,Source-Goal,flutters,,MLD
+S58R,L2,NCG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S58R,L2,NCG,Targ6,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S58R,L2,NCG,Targ4,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S58R,L2,NCG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,goes,,MLD
+S58R,L2,NCG,Targ8,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S58R,L2,NCG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,goes,,MLD
+S58R,L2,NCG,Targ11,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S58R,L2,NCG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S58R,L2,NCG,Targ16,n,n,y,from-pp,y,to-pp,Source-Goal,goes,also mentions 'scaling a roof' in separate clause prior,MLD
+S58R,L2,NCG,Targ1,n,n,y,from-pp,y,to-pp,Source-Goal,jumps,,MLD
+S58R,L2,NCG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,slithers,,MLD
+S58R,L2,NCG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,skips,,MLD
+S58R,L2,NCG,Targ10,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S59R,L1,CG,Targ13,n,n,y,from-pp,y,to-pp,Source-Goal,crawls,,MLD
+S59R,L1,CG,Targ2,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S59R,L1,CG,Targ17,n,n,y,from-pp,y,to-pp,Source-Goal,carries,treats this like a carrying event,MLD
+S59R,L1,CG,Targ7,n,n,y,from-pp,y,to-pp,Source-Goal,walks,,MLD
+S59R,L1,CG,Targ5,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
+S59R,L1,CG,Targ15,n,n,y,from-pp,y,to-pp,Source-Goal,hops,,MLD
+S59R,L1,CG,Targ6,n,n,y,from-pp,y,other-part,Source-Goal,flies,"other-part = ""up into""",MLD
+S59R,L1,CG,Targ4,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S59R,L1,CG,Targ12,n,n,y,from-pp,y,to-pp,Source-Goal,swims,,MLD
+S59R,L1,CG,Targ8,n,n,y,from-pp,y,to-part,Source-Goal,flies,,MLD
+S59R,L1,CG,Targ18,n,n,y,from-part,y,to-part,Source-Goal,moves,,MLD
+S59R,L1,CG,Targ11,n,n,y,v-np,y,on-pp,Source-Goal,conjoined,leaves + lands,MLD
+S59R,L1,CG,Targ14,n,n,y,from-pp,y,to-pp,Source-Goal,drives,,MLD
+S59R,L1,CG,Targ16,n,n,y,from-pp,y,to-part,Source-Goal,runs,,MLD
+S59R,L1,CG,Targ1,n,n,y,from-pp,y,onto-pp,Source-Goal,jumps,,MLD
+S59R,L1,CG,Targ9,n,n,y,from-pp,y,to-pp,Source-Goal,moves,,MLD
+S59R,L1,CG,Targ3,n,n,y,from-pp,y,to-pp,Source-Goal,runs,,MLD
+S59R,L1,CG,Targ10,n,n,y,from-pp,y,to-pp,Source-Goal,flies,,MLD
